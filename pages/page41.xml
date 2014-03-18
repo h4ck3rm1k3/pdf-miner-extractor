@@ -1,0 +1,48 @@
+<page id="42" bbox="0.000,0.000,792.000,612.000" rotate="0">
+<textbox id="0" bbox="36.000,562.902,39.506,576.388">
+<textline bbox="36.000,562.902,39.506,576.388">
+<text font="Verdana" bbox="36.000,562.902,39.506,576.388" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="35.994,35.021,39.500,48.507">
+<textline bbox="35.994,35.021,39.500,48.507">
+<text font="Verdana" bbox="35.994,35.021,39.500,48.507" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="647.160,47.262,723.384,60.957">
+<textline bbox="647.160,47.262,723.384,60.957">
+<text font="Verdana" bbox="647.160,47.262,653.166,60.748" size="13.486">P</text>
+<text font="Verdana" bbox="653.160,47.262,659.146,60.748" size="13.486">a</text>
+<text font="Verdana" bbox="659.160,47.262,665.365,60.748" size="13.486">g</text>
+<text font="Verdana" bbox="665.400,47.262,671.336,60.748" size="13.486">e</text>
+<text font="Verdana" bbox="671.280,47.262,674.786,60.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="674.759,47.262,681.841,60.957" size="13.695">3</text>
+<text font="Verdana-Bold" bbox="681.960,47.262,689.042,60.957" size="13.695">8</text>
+<text font="Verdana" bbox="689.042,47.262,692.548,60.748" size="13.486"> </text>
+<text font="Verdana" bbox="692.637,47.262,698.683,60.748" size="13.486">o</text>
+<text font="Verdana" bbox="698.637,47.262,702.143,60.748" size="13.486">f</text>
+<text font="Verdana" bbox="702.117,47.262,705.623,60.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="705.595,47.262,712.677,60.957" size="13.695">5</text>
+<text font="Verdana-Bold" bbox="712.796,47.262,719.878,60.957" size="13.695">7</text>
+<text font="Verdana" bbox="719.878,47.262,723.384,60.748" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<figure name="Im0" bbox="37.500,173.999,721.091,540.000">
+<image width="683" height="366"/>
+</figure>
+<layout>
+<textgroup bbox="35.994,35.021,723.384,576.388">
+<textgroup bbox="35.994,35.021,39.506,576.388">
+<textbox id="0" bbox="36.000,562.902,39.506,576.388"/>
+<textbox id="1" bbox="35.994,35.021,39.500,48.507"/>
+</textgroup>
+<textbox id="2" bbox="647.160,47.262,723.384,60.957"/>
+</textgroup>
+</layout>
+</page>

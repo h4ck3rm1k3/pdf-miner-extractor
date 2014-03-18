@@ -1,0 +1,38 @@
+<page id="35" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="71.995,71.021,75.501,84.507">
+<textline bbox="71.995,71.021,75.501,84.507">
+<text font="Verdana" bbox="71.995,71.021,75.501,84.507" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="449.160,83.262,525.384,96.957">
+<textline bbox="449.160,83.262,525.384,96.957">
+<text font="Verdana" bbox="449.160,83.262,455.166,96.748" size="13.486">P</text>
+<text font="Verdana" bbox="455.160,83.262,461.146,96.748" size="13.486">a</text>
+<text font="Verdana" bbox="461.160,83.262,467.365,96.748" size="13.486">g</text>
+<text font="Verdana" bbox="467.400,83.262,473.336,96.748" size="13.486">e</text>
+<text font="Verdana" bbox="473.280,83.262,476.786,96.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="476.759,83.262,483.841,96.957" size="13.695">3</text>
+<text font="Verdana-Bold" bbox="483.960,83.262,491.042,96.957" size="13.695">1</text>
+<text font="Verdana" bbox="491.042,83.262,494.548,96.748" size="13.486"> </text>
+<text font="Verdana" bbox="494.637,83.262,500.683,96.748" size="13.486">o</text>
+<text font="Verdana" bbox="500.637,83.262,504.143,96.748" size="13.486">f</text>
+<text font="Verdana" bbox="504.117,83.262,507.623,96.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="507.595,83.262,514.677,96.957" size="13.695">5</text>
+<text font="Verdana-Bold" bbox="514.796,83.262,521.878,96.957" size="13.695">7</text>
+<text font="Verdana" bbox="521.878,83.262,525.384,96.748" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<figure name="Im0" bbox="73.500,116.657,523.473,720.000">
+<image width="449" height="603"/>
+</figure>
+<layout>
+<textgroup bbox="71.995,71.021,525.384,96.957">
+<textbox id="0" bbox="71.995,71.021,75.501,84.507"/>
+<textbox id="1" bbox="449.160,83.262,525.384,96.957"/>
+</textgroup>
+</layout>
+</page>

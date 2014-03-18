@@ -1,0 +1,2423 @@
+<page id="58" bbox="0.000,0.000,612.000,792.000" rotate="0">
+<textbox id="0" bbox="72.000,742.902,75.506,756.388">
+<textline bbox="72.000,742.902,75.506,756.388">
+<text font="Verdana" bbox="72.000,742.902,75.506,756.388" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="1" bbox="108.000,697.236,394.980,721.146">
+<textline bbox="108.000,708.153,394.980,721.146">
+<text font="Verdana" bbox="108.000,708.153,114.282,720.339" size="12.186">C</text>
+<text font="Verdana" bbox="114.237,708.153,116.703,720.339" size="12.186">l</text>
+<text font="Verdana" bbox="116.757,708.153,119.223,720.339" size="12.186">i</text>
+<text font="Verdana" bbox="119.277,708.153,124.974,720.339" size="12.186">n</text>
+<text font="Verdana" bbox="124.917,708.153,128.463,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="128.517,708.153,133.980,720.339" size="12.186">o</text>
+<text font="Verdana" bbox="134.038,708.153,139.735,720.339" size="12.186">n</text>
+<text font="Verdana" bbox="139.677,708.153,142.845,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="142.800,708.153,148.227,720.339" size="12.186">P</text>
+<text font="Verdana" bbox="148.200,708.153,153.609,720.339" size="12.186">a</text>
+<text font="Verdana" bbox="153.600,708.153,157.443,720.339" size="12.186">r</text>
+<text font="Verdana" bbox="157.441,708.153,162.769,720.339" size="12.186">k</text>
+<text font="Verdana" bbox="162.724,708.153,170.086,720.339" size="12.186">w</text>
+<text font="Verdana" bbox="170.041,708.153,175.450,720.339" size="12.186">a</text>
+<text font="Verdana" bbox="175.441,708.153,180.769,720.339" size="12.186">y</text>
+<text font="Verdana" bbox="180.724,708.153,184.810,720.339" size="12.186">/</text>
+<text font="Verdana" bbox="184.803,708.153,190.527,720.339" size="12.186">2</text>
+<text font="Verdana" bbox="190.563,708.153,196.287,720.339" size="12.186">3</text>
+<text font="Verdana" bbox="196.320,713.022,198.882,721.146" size="8.124">r</text>
+<text font="Verdana" bbox="198.840,713.022,202.578,721.146" size="8.124">d</text>
+<text font="Verdana" bbox="202.680,708.153,205.848,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="205.803,708.153,211.959,720.339" size="12.186">S</text>
+<text font="Verdana" bbox="211.923,708.153,215.469,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="215.523,708.153,219.366,720.339" size="12.186">r</text>
+<text font="Verdana" bbox="219.363,708.153,224.727,720.339" size="12.186">e</text>
+<text font="Verdana" bbox="224.763,708.153,230.127,720.339" size="12.186">e</text>
+<text font="Verdana" bbox="230.163,708.153,233.709,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="233.763,708.153,236.931,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="236.886,708.153,240.432,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="240.486,708.153,245.949,720.339" size="12.186">o</text>
+<text font="Verdana" bbox="246.003,708.153,249.171,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="249.126,708.153,254.850,720.339" size="12.186">3</text>
+<text font="Verdana" bbox="254.886,708.153,260.610,720.339" size="12.186">1</text>
+<text font="Verdana" bbox="260.520,713.022,263.646,721.146" size="8.124">s</text>
+<text font="Verdana" bbox="263.640,713.022,266.004,721.146" size="8.124">t</text>
+<text font="Verdana" bbox="265.920,708.153,269.088,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="269.043,708.153,275.199,720.339" size="12.186">S</text>
+<text font="Verdana" bbox="275.163,708.153,278.709,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="278.763,708.153,282.606,720.339" size="12.186">r</text>
+<text font="Verdana" bbox="282.603,708.153,287.967,720.339" size="12.186">e</text>
+<text font="Verdana" bbox="288.003,708.153,293.367,720.339" size="12.186">e</text>
+<text font="Verdana" bbox="293.403,708.153,296.949,720.339" size="12.186">t</text>
+<text font="Verdana" bbox="297.006,708.153,300.282,720.339" size="12.186">,</text>
+<text font="Verdana" bbox="300.246,708.153,303.414,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="303.369,708.153,309.093,720.339" size="12.186">2</text>
+<text font="Verdana" bbox="309.129,708.153,314.853,720.339" size="12.186">0</text>
+<text font="Verdana" bbox="314.889,708.153,320.613,720.339" size="12.186">1</text>
+<text font="Verdana" bbox="320.649,708.153,326.373,720.339" size="12.186">1</text>
+<text font="Verdana" bbox="326.373,708.153,329.649,720.339" size="12.186">,</text>
+<text font="Verdana" bbox="329.613,708.153,332.781,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="332.772,708.153,338.496,720.339" size="12.186">$</text>
+<text font="Verdana" bbox="338.532,708.153,344.256,720.339" size="12.186">6</text>
+<text font="Verdana" bbox="344.292,708.153,347.568,720.339" size="12.186">.</text>
+<text font="Verdana" bbox="347.412,708.153,353.136,720.339" size="12.186">7</text>
+<text font="Verdana" bbox="353.172,708.153,358.896,720.339" size="12.186">5</text>
+<text font="Verdana" bbox="358.932,708.153,362.100,720.339" size="12.186"> </text>
+<text font="Verdana" bbox="362.055,708.153,370.812,720.339" size="12.186">m</text>
+<text font="Verdana" bbox="370.816,708.153,373.282,720.339" size="12.186">i</text>
+<text font="Verdana" bbox="373.336,708.153,375.802,720.339" size="12.186">l</text>
+<text font="Verdana" bbox="375.735,708.153,378.201,720.339" size="12.186">l</text>
+<text font="Verdana" bbox="378.255,708.153,380.721,720.339" size="12.186">i</text>
+<text font="Verdana" bbox="380.776,708.153,386.239,720.339" size="12.186">o</text>
+<text font="Verdana" bbox="386.296,708.153,391.993,720.339" size="12.186">n</text>
+<text font="Verdana" bbox="391.812,708.153,394.980,720.339" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.015,697.236,111.183,709.422">
+<text font="Verdana" bbox="108.015,697.236,111.183,709.422" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="2" bbox="90.015,686.121,341.619,698.694">
+<textline bbox="90.015,686.121,341.619,698.694">
+<text font="ETFATV+SymbolMT" bbox="90.015,687.066,94.155,698.091" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.092,686.121,96.594,698.100" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.015,686.319,118.167,698.694" size="12.375">W</text>
+<text font="Verdana-Bold" bbox="118.215,686.319,124.227,698.694" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="124.215,686.319,130.254,698.694" size="12.375">k</text>
+<text font="Verdana-Bold" bbox="130.218,686.319,136.230,698.694" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="136.218,686.319,140.691,698.694" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="140.655,686.319,147.063,698.694" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="147.015,686.319,152.352,698.694" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="152.295,686.319,158.307,698.694" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="158.294,686.319,161.372,698.694" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="161.417,686.319,168.887,698.694" size="12.375">D</text>
+<text font="Verdana-Bold" bbox="168.977,686.319,173.450,698.694" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="173.414,686.319,176.492,698.694" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="176.535,686.319,182.385,698.694" size="12.375">v</text>
+<text font="Verdana-Bold" bbox="182.414,686.319,188.390,698.694" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="188.415,686.319,191.493,698.694" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="191.574,686.319,197.973,698.694" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="197.898,686.319,200.976,698.694" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="201.021,686.319,208.059,698.694" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="208.101,686.319,214.077,698.694" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="214.101,686.319,219.393,698.694" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="219.381,686.319,225.564,698.694" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="225.501,686.319,231.909,698.694" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="231.861,686.319,237.198,698.694" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="237.144,686.319,241.248,698.694" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="241.224,686.319,245.697,698.694" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="245.784,686.319,252.192,698.694" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="252.145,686.319,257.437,698.694" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="257.424,686.319,261.528,698.694" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="261.505,686.319,264.583,698.694" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="264.624,686.319,270.807,698.694" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="270.865,686.319,277.273,698.694" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="277.224,686.319,280.302,698.694" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="280.338,686.319,286.737,698.694" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="286.701,686.319,289.779,698.694" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="289.824,686.319,295.557,698.694" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="295.584,686.319,301.596,698.694" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="301.584,686.319,310.395,698.694" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="310.341,686.319,314.814,698.694" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="314.781,686.319,320.757,698.694" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="320.781,686.319,327.189,698.694" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="327.142,686.319,332.434,698.694" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="332.421,686.319,338.397,698.694" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="338.541,686.319,341.619,698.694" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="3" bbox="90.000,653.235,96.579,665.214">
+<textline bbox="90.000,653.235,96.579,665.214">
+<text font="ETFATV+SymbolMT" bbox="90.000,654.180,94.140,665.205" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,653.235,96.579,665.214" size="11.979"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="4" bbox="107.997,631.596,416.331,688.386">
+<textline bbox="108.024,675.393,416.331,688.386">
+<text font="Verdana" bbox="108.024,675.402,114.198,687.588" size="12.186">B</text>
+<text font="Verdana" bbox="114.144,675.402,119.607,687.588" size="12.186">o</text>
+<text font="Verdana" bbox="119.664,675.402,125.271,687.588" size="12.186">b</text>
+<text font="Verdana" bbox="125.304,675.402,128.472,687.588" size="12.186"> </text>
+<text font="Verdana" bbox="128.427,675.402,134.601,687.588" size="12.186">B</text>
+<text font="Verdana" bbox="134.547,675.402,137.013,687.588" size="12.186">i</text>
+<text font="Verdana" bbox="137.067,675.402,139.533,687.588" size="12.186">l</text>
+<text font="Verdana" bbox="139.587,675.402,142.053,687.588" size="12.186">l</text>
+<text font="Verdana" bbox="142.107,675.402,144.573,687.588" size="12.186">i</text>
+<text font="Verdana" bbox="144.627,675.402,150.324,687.588" size="12.186">n</text>
+<text font="Verdana" bbox="150.267,675.402,155.874,687.588" size="12.186">g</text>
+<text font="Verdana" bbox="155.908,675.402,160.597,687.588" size="12.186">s</text>
+<text font="Verdana" bbox="160.588,675.402,163.756,687.588" size="12.186"> </text>
+<text font="Verdana" bbox="163.711,675.402,169.138,687.588" size="12.186">P</text>
+<text font="Verdana" bbox="169.111,675.402,174.520,687.588" size="12.186">a</text>
+<text font="Verdana" bbox="174.511,675.402,178.354,687.588" size="12.186">r</text>
+<text font="Verdana" bbox="178.351,675.402,183.679,687.588" size="12.186">k</text>
+<text font="Verdana" bbox="183.634,675.402,190.996,687.588" size="12.186">w</text>
+<text font="Verdana" bbox="190.951,675.402,196.360,687.588" size="12.186">a</text>
+<text font="Verdana" bbox="196.351,675.402,201.679,687.588" size="12.186">y</text>
+<text font="Verdana" bbox="201.634,675.402,205.720,687.588" size="12.186">/</text>
+<text font="Verdana" bbox="205.714,675.402,211.438,687.588" size="12.186">1</text>
+<text font="Verdana" bbox="211.474,675.402,217.198,687.588" size="12.186">5</text>
+<text font="Verdana" bbox="217.200,680.262,219.564,688.386" size="8.124">t</text>
+<text font="Verdana" bbox="219.600,680.262,223.398,688.386" size="8.124">h</text>
+<text font="Verdana" bbox="223.440,675.393,226.608,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="226.563,675.393,232.719,687.579" size="12.186">S</text>
+<text font="Verdana" bbox="232.683,675.393,236.229,687.579" size="12.186">t</text>
+<text font="Verdana" bbox="236.283,675.393,240.126,687.579" size="12.186">r</text>
+<text font="Verdana" bbox="240.123,675.393,245.487,687.579" size="12.186">e</text>
+<text font="Verdana" bbox="245.523,675.393,250.887,687.579" size="12.186">e</text>
+<text font="Verdana" bbox="250.923,675.393,254.469,687.579" size="12.186">t</text>
+<text font="Verdana" bbox="254.523,675.393,257.691,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="257.646,675.393,261.192,687.579" size="12.186">t</text>
+<text font="Verdana" bbox="261.127,675.393,266.590,687.579" size="12.186">o</text>
+<text font="Verdana" bbox="266.646,675.393,269.814,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="269.769,675.393,275.493,687.579" size="12.186">1</text>
+<text font="Verdana" bbox="275.529,675.393,281.253,687.579" size="12.186">8</text>
+<text font="Verdana" bbox="281.160,680.262,283.524,688.386" size="8.124">t</text>
+<text font="Verdana" bbox="283.560,680.262,287.358,688.386" size="8.124">h</text>
+<text font="Verdana" bbox="287.280,675.393,290.448,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="290.403,675.393,296.559,687.579" size="12.186">S</text>
+<text font="Verdana" bbox="296.523,675.393,300.069,687.579" size="12.186">t</text>
+<text font="Verdana" bbox="300.123,675.393,303.966,687.579" size="12.186">r</text>
+<text font="Verdana" bbox="303.963,675.393,309.327,687.579" size="12.186">e</text>
+<text font="Verdana" bbox="309.363,675.393,314.727,687.579" size="12.186">e</text>
+<text font="Verdana" bbox="314.763,675.393,318.309,687.579" size="12.186">t</text>
+<text font="Verdana" bbox="318.240,675.393,321.408,687.579" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="324.000,675.393,327.276,687.579" size="12.186">,</text>
+<text font="Verdana" bbox="327.240,675.393,330.408,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="330.363,675.393,336.087,687.579" size="12.186">2</text>
+<text font="Verdana" bbox="336.123,675.393,341.847,687.579" size="12.186">0</text>
+<text font="Verdana" bbox="341.883,675.393,347.607,687.579" size="12.186">1</text>
+<text font="Verdana" bbox="347.643,675.393,353.367,687.579" size="12.186">1</text>
+<text font="Verdana" bbox="353.367,675.393,356.643,687.579" size="12.186">,</text>
+<text font="Verdana" bbox="356.607,675.393,359.775,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="359.766,675.393,365.490,687.579" size="12.186">$</text>
+<text font="Verdana" bbox="365.526,675.393,371.250,687.579" size="12.186">3</text>
+<text font="Verdana" bbox="371.286,675.393,374.562,687.579" size="12.186">.</text>
+<text font="Verdana" bbox="374.526,675.393,380.250,687.579" size="12.186">0</text>
+<text font="Verdana" bbox="380.286,675.393,383.454,687.579" size="12.186"> </text>
+<text font="Verdana" bbox="383.409,675.393,392.166,687.579" size="12.186">m</text>
+<text font="Verdana" bbox="392.169,675.393,394.635,687.579" size="12.186">i</text>
+<text font="Verdana" bbox="394.689,675.393,397.155,687.579" size="12.186">l</text>
+<text font="Verdana" bbox="397.089,675.393,399.555,687.579" size="12.186">l</text>
+<text font="Verdana" bbox="399.609,675.393,402.075,687.579" size="12.186">i</text>
+<text font="Verdana" bbox="402.129,675.393,407.592,687.579" size="12.186">o</text>
+<text font="Verdana" bbox="407.646,675.393,413.343,687.579" size="12.186">n</text>
+<text font="Verdana" bbox="413.163,675.393,416.331,687.579" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,664.350,111.168,676.536">
+<text font="Verdana" bbox="108.000,664.350,111.168,676.536" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,653.433,374.247,665.808">
+<text font="Verdana-Bold" bbox="108.000,653.433,112.914,665.808" size="12.375">I</text>
+<text font="Verdana-Bold" bbox="112.920,653.433,119.103,665.808" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="119.040,653.433,127.851,665.808" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="127.797,653.433,133.809,665.808" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="133.798,653.433,136.876,665.808" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="136.921,653.433,143.311,665.808" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="143.281,653.433,147.385,665.808" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="147.361,653.433,151.834,665.808" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="151.800,653.433,157.776,665.808" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="157.801,653.433,163.777,665.808" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="163.801,653.433,167.905,665.808" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="167.881,653.433,174.082,665.808" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="174.120,653.433,181.428,665.808" size="12.375">U</text>
+<text font="Verdana-Bold" bbox="181.441,653.433,187.831,665.808" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="187.803,653.433,192.123,665.808" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="192.123,653.433,198.522,665.808" size="12.375">5</text>
+<text font="Verdana-Bold" bbox="198.603,653.433,205.002,665.808" size="12.375">9</text>
+<text font="Verdana-Bold" bbox="204.966,653.433,208.044,665.808" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="208.080,653.433,214.479,665.808" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="214.443,653.433,217.521,665.808" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="217.566,653.433,224.865,665.808" size="12.375">G</text>
+<text font="Verdana-Bold" bbox="224.886,653.433,229.359,665.808" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="229.326,653.433,235.338,665.808" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="235.326,653.433,241.617,665.808" size="12.375">d</text>
+<text font="Verdana-Bold" bbox="241.563,653.433,244.641,665.808" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="244.682,653.433,251.090,665.808" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="251.042,653.433,257.333,665.808" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="257.333,653.433,261.653,665.808" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="261.653,653.433,268.043,665.808" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="268.133,653.433,274.541,665.808" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="274.494,653.433,278.967,665.808" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="278.933,653.433,282.731,665.808" size="12.375">f</text>
+<text font="Verdana-Bold" bbox="282.774,653.433,288.786,665.808" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="288.773,653.433,294.065,665.808" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="294.053,653.433,297.131,665.808" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="297.174,653.433,303.582,665.808" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="303.654,653.433,309.945,665.808" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="309.891,653.433,312.969,665.808" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="312.966,653.433,319.365,665.808" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="319.329,653.433,322.407,665.808" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="322.452,653.433,328.185,665.808" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="328.212,653.433,334.224,665.808" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="334.212,653.433,343.023,665.808" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="342.969,653.433,347.442,665.808" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="347.529,653.433,353.505,665.808" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="353.529,653.433,359.937,665.808" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="359.889,653.433,365.181,665.808" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="365.169,653.433,371.145,665.808" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="371.169,653.433,374.247,665.808" size="12.375"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.009,642.513,412.485,655.506">
+<text font="Verdana" bbox="108.009,642.516,114.183,654.702" size="12.186">B</text>
+<text font="Verdana" bbox="114.129,642.516,119.592,654.702" size="12.186">o</text>
+<text font="Verdana" bbox="119.649,642.516,125.256,654.702" size="12.186">b</text>
+<text font="Verdana" bbox="125.289,642.516,128.457,654.702" size="12.186"> </text>
+<text font="Verdana" bbox="128.412,642.516,134.586,654.702" size="12.186">B</text>
+<text font="Verdana" bbox="134.532,642.516,136.998,654.702" size="12.186">i</text>
+<text font="Verdana" bbox="137.052,642.516,139.518,654.702" size="12.186">l</text>
+<text font="Verdana" bbox="139.572,642.516,142.038,654.702" size="12.186">l</text>
+<text font="Verdana" bbox="142.092,642.516,144.558,654.702" size="12.186">i</text>
+<text font="Verdana" bbox="144.612,642.516,150.309,654.702" size="12.186">n</text>
+<text font="Verdana" bbox="150.252,642.516,155.859,654.702" size="12.186">g</text>
+<text font="Verdana" bbox="155.893,642.516,160.582,654.702" size="12.186">s</text>
+<text font="Verdana" bbox="160.573,642.516,163.741,654.702" size="12.186"> </text>
+<text font="Verdana" bbox="163.696,642.516,169.123,654.702" size="12.186">P</text>
+<text font="Verdana" bbox="169.096,642.516,174.505,654.702" size="12.186">a</text>
+<text font="Verdana" bbox="174.496,642.516,178.339,654.702" size="12.186">r</text>
+<text font="Verdana" bbox="178.336,642.516,183.664,654.702" size="12.186">k</text>
+<text font="Verdana" bbox="183.619,642.516,190.981,654.702" size="12.186">w</text>
+<text font="Verdana" bbox="190.936,642.516,196.345,654.702" size="12.186">a</text>
+<text font="Verdana" bbox="196.336,642.516,201.664,654.702" size="12.186">y</text>
+<text font="Verdana" bbox="201.619,642.516,205.705,654.702" size="12.186">/</text>
+<text font="Verdana" bbox="205.699,642.516,211.423,654.702" size="12.186">1</text>
+<text font="Verdana" bbox="211.459,642.516,217.183,654.702" size="12.186">5</text>
+<text font="Verdana" bbox="217.200,647.382,219.564,655.506" size="8.124">t</text>
+<text font="Verdana" bbox="219.600,647.382,223.398,655.506" size="8.124">h</text>
+<text font="Verdana" bbox="223.440,642.513,226.608,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="226.563,642.513,232.719,654.699" size="12.186">S</text>
+<text font="Verdana" bbox="232.683,642.513,236.229,654.699" size="12.186">t</text>
+<text font="Verdana" bbox="236.283,642.513,240.126,654.699" size="12.186">r</text>
+<text font="Verdana" bbox="240.123,642.513,245.487,654.699" size="12.186">e</text>
+<text font="Verdana" bbox="245.523,642.513,250.887,654.699" size="12.186">e</text>
+<text font="Verdana" bbox="250.923,642.513,254.469,654.699" size="12.186">t</text>
+<text font="Verdana" bbox="254.523,642.513,257.691,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="257.646,642.513,261.192,654.699" size="12.186">t</text>
+<text font="Verdana" bbox="261.127,642.513,266.590,654.699" size="12.186">o</text>
+<text font="Verdana" bbox="266.644,642.513,269.812,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="269.767,642.513,275.302,654.699" size="12.186">Y</text>
+<text font="Verdana" bbox="275.287,642.513,280.696,654.699" size="12.186">a</text>
+<text font="Verdana" bbox="280.687,642.513,283.153,654.699" size="12.186">l</text>
+<text font="Verdana" bbox="283.207,642.513,288.571,654.699" size="12.186">e</text>
+<text font="Verdana" bbox="288.607,642.513,291.775,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="291.730,642.513,297.985,654.699" size="12.186">R</text>
+<text font="Verdana" bbox="297.971,642.513,303.434,654.699" size="12.186">o</text>
+<text font="Verdana" bbox="303.488,642.513,308.897,654.699" size="12.186">a</text>
+<text font="Verdana" bbox="308.888,642.513,314.495,654.699" size="12.186">d</text>
+<text font="Verdana" bbox="314.520,642.513,317.796,654.699" size="12.186">,</text>
+<text font="Verdana" bbox="317.760,642.513,320.928,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="320.883,642.513,326.607,654.699" size="12.186">2</text>
+<text font="Verdana" bbox="326.643,642.513,332.367,654.699" size="12.186">0</text>
+<text font="Verdana" bbox="332.403,642.513,338.127,654.699" size="12.186">1</text>
+<text font="Verdana" bbox="338.043,642.513,343.767,654.699" size="12.186">1</text>
+<text font="Verdana" bbox="343.767,642.513,347.043,654.699" size="12.186">,</text>
+<text font="Verdana" bbox="347.007,642.513,350.175,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="350.160,642.513,355.884,654.699" size="12.186">$</text>
+<text font="Verdana" bbox="355.920,642.513,361.644,654.699" size="12.186">6</text>
+<text font="Verdana" bbox="361.680,642.513,364.956,654.699" size="12.186">.</text>
+<text font="Verdana" bbox="364.920,642.513,370.644,654.699" size="12.186">0</text>
+<text font="Verdana" bbox="370.680,642.513,376.404,654.699" size="12.186">5</text>
+<text font="Verdana" bbox="376.440,642.513,379.608,654.699" size="12.186"> </text>
+<text font="Verdana" bbox="379.563,642.513,388.320,654.699" size="12.186">m</text>
+<text font="Verdana" bbox="388.323,642.513,390.789,654.699" size="12.186">i</text>
+<text font="Verdana" bbox="390.843,642.513,393.309,654.699" size="12.186">l</text>
+<text font="Verdana" bbox="393.243,642.513,395.709,654.699" size="12.186">l</text>
+<text font="Verdana" bbox="395.763,642.513,398.229,654.699" size="12.186">i</text>
+<text font="Verdana" bbox="398.283,642.513,403.746,654.699" size="12.186">o</text>
+<text font="Verdana" bbox="403.803,642.513,409.500,654.699" size="12.186">n</text>
+<text font="Verdana" bbox="409.317,642.513,412.485,654.699" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="107.997,631.596,111.165,643.782">
+<text font="Verdana" bbox="107.997,631.596,111.165,643.782" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="5" bbox="432.000,675.393,435.168,687.579">
+<textline bbox="432.000,675.393,435.168,687.579">
+<text font="Verdana" bbox="432.000,675.393,435.168,687.579" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="6" bbox="431.997,642.513,435.165,654.699">
+<textline bbox="431.997,642.513,435.165,654.699">
+<text font="Verdana" bbox="431.997,642.513,435.165,654.699" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="7" bbox="89.997,620.481,522.690,633.792">
+<textline bbox="89.997,620.481,522.690,633.792">
+<text font="ETFATV+SymbolMT" bbox="89.997,621.426,94.137,632.451" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.074,620.481,96.576,632.460" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="107.997,620.679,115.620,633.054" size="12.375">N</text>
+<text font="Verdana-Bold" bbox="115.677,620.679,121.860,633.054" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="121.797,620.679,126.270,633.054" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="126.237,620.679,130.341,633.054" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="130.317,620.679,136.725,633.054" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="136.676,620.679,139.754,633.054" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="139.799,620.679,146.198,633.054" size="12.375">2</text>
+<text font="Verdana-Bold" bbox="146.160,625.542,150.432,633.792" size="8.250">n</text>
+<text font="Verdana-Bold" bbox="150.480,625.542,154.674,633.792" size="8.250">d</text>
+<text font="Verdana-Bold" bbox="154.680,620.673,157.758,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="157.803,620.673,164.193,633.048" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="164.163,620.673,168.267,633.048" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="168.243,620.673,172.716,633.048" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="172.680,620.673,178.656,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="178.680,620.673,184.656,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="184.681,620.673,188.785,633.048" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="188.760,620.673,194.961,633.048" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="195.000,620.673,202.308,633.048" size="12.375">U</text>
+<text font="Verdana-Bold" bbox="202.320,620.673,208.710,633.048" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="208.680,620.673,213.000,633.048" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="213.000,620.673,219.399,633.048" size="12.375">4</text>
+<text font="Verdana-Bold" bbox="219.363,620.673,225.762,633.048" size="12.375">0</text>
+<text font="Verdana-Bold" bbox="225.843,620.673,232.044,633.048" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="232.083,620.673,238.482,633.048" size="12.375">5</text>
+<text font="Verdana-Bold" bbox="238.446,620.673,244.845,633.048" size="12.375">9</text>
+<text font="Verdana-Bold" bbox="244.809,620.673,247.887,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="247.920,620.673,254.319,633.048" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="254.283,620.673,257.361,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="257.406,620.673,262.320,633.048" size="12.375">I</text>
+<text font="Verdana-Bold" bbox="262.326,620.673,268.734,633.048" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="268.686,620.673,272.790,633.048" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="272.766,620.673,278.742,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="278.766,620.673,283.239,633.048" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="283.206,620.673,288.543,633.048" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="288.486,620.673,294.462,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="294.486,620.673,299.778,633.048" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="299.766,620.673,303.870,633.048" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="303.846,620.673,306.924,633.048" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="306.966,620.673,313.149,633.048" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="313.206,620.673,319.614,633.048" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="319.569,620.673,322.647,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="322.692,620.673,327.606,633.048" size="12.375">I</text>
+<text font="Verdana-Bold" bbox="327.612,620.673,337.134,633.048" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="337.092,620.673,343.383,633.048" size="12.375">p</text>
+<text font="Verdana-Bold" bbox="343.329,620.673,347.802,633.048" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="347.889,620.673,354.072,633.048" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="354.009,620.673,359.859,633.048" size="12.375">v</text>
+<text font="Verdana-Bold" bbox="359.889,620.673,365.865,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="365.889,620.673,375.411,633.048" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="375.369,620.673,381.345,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="381.369,620.673,387.777,633.048" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="387.729,620.673,391.833,633.048" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="391.809,620.673,397.146,633.048" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="397.092,620.673,400.170,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="400.209,620.673,406.608,633.048" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="406.572,620.673,409.650,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="409.695,620.673,415.428,633.048" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="415.455,620.673,421.467,633.048" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="421.455,620.673,430.266,633.048" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="430.335,620.673,434.808,633.048" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="434.774,620.673,440.750,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="440.777,620.673,447.185,633.048" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="447.138,620.673,452.430,633.048" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="452.417,620.673,458.393,633.048" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="458.393,620.673,461.471,633.048" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="461.535,620.673,466.422,633.048" size="12.375">(</text>
+<text font="Verdana" bbox="466.458,620.673,473.046,632.859" size="12.186">U</text>
+<text font="Verdana" bbox="473.055,620.673,477.141,632.859" size="12.186">-</text>
+<text font="Verdana" bbox="477.132,620.673,482.856,632.859" size="12.186">2</text>
+<text font="Verdana" bbox="482.892,620.673,488.616,632.859" size="12.186">0</text>
+<text font="Verdana" bbox="488.652,620.673,494.376,632.859" size="12.186">4</text>
+<text font="Verdana" bbox="494.412,620.673,500.136,632.859" size="12.186">1</text>
+<text font="Verdana" bbox="500.136,620.673,504.222,632.859" size="12.186">-</text>
+<text font="Verdana" bbox="504.132,620.673,509.856,632.859" size="12.186">0</text>
+<text font="Verdana" bbox="509.892,620.673,515.616,632.859" size="12.186">1</text>
+<text font="Verdana" bbox="515.616,620.673,519.702,632.859" size="12.186">)</text>
+<text font="Verdana-Bold" bbox="519.612,620.673,522.690,633.048" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="8" bbox="108.000,597.582,323.340,621.942">
+<textline bbox="108.015,609.756,323.340,621.942">
+<text font="Verdana" bbox="108.015,609.756,113.028,621.942" size="12.186">L</text>
+<text font="Verdana" bbox="113.055,609.756,118.518,621.942" size="12.186">o</text>
+<text font="Verdana" bbox="118.572,609.756,123.261,621.942" size="12.186">c</text>
+<text font="Verdana" bbox="123.252,609.756,128.949,621.942" size="12.186">u</text>
+<text font="Verdana" bbox="128.891,609.756,133.580,621.942" size="12.186">s</text>
+<text font="Verdana" bbox="133.571,609.756,137.117,621.942" size="12.186">t</text>
+<text font="Verdana" bbox="137.171,609.756,140.339,621.942" size="12.186"> </text>
+<text font="Verdana" bbox="140.294,609.756,146.450,621.942" size="12.186">S</text>
+<text font="Verdana" bbox="146.414,609.756,149.960,621.942" size="12.186">t</text>
+<text font="Verdana" bbox="150.014,609.756,153.857,621.942" size="12.186">r</text>
+<text font="Verdana" bbox="153.855,609.756,159.219,621.942" size="12.186">e</text>
+<text font="Verdana" bbox="159.255,609.756,164.619,621.942" size="12.186">e</text>
+<text font="Verdana" bbox="164.655,609.756,168.201,621.942" size="12.186">t</text>
+<text font="Verdana" bbox="168.255,609.756,171.423,621.942" size="12.186"> </text>
+<text font="Verdana" bbox="171.378,609.756,175.167,621.942" size="12.186">I</text>
+<text font="Verdana" bbox="175.098,609.756,180.795,621.942" size="12.186">n</text>
+<text font="Verdana" bbox="180.739,609.756,184.285,621.942" size="12.186">t</text>
+<text font="Verdana" bbox="184.339,609.756,189.703,621.942" size="12.186">e</text>
+<text font="Verdana" bbox="189.739,609.756,193.582,621.942" size="12.186">r</text>
+<text font="Verdana" bbox="193.578,609.756,198.267,621.942" size="12.186">s</text>
+<text font="Verdana" bbox="198.258,609.756,203.622,621.942" size="12.186">e</text>
+<text font="Verdana" bbox="203.658,609.756,208.347,621.942" size="12.186">c</text>
+<text font="Verdana" bbox="208.339,609.756,211.885,621.942" size="12.186">t</text>
+<text font="Verdana" bbox="211.818,609.756,214.284,621.942" size="12.186">i</text>
+<text font="Verdana" bbox="214.338,609.756,219.801,621.942" size="12.186">o</text>
+<text font="Verdana" bbox="219.855,609.756,225.552,621.942" size="12.186">n</text>
+<text font="Verdana" bbox="225.492,609.756,228.768,621.942" size="12.186">,</text>
+<text font="Verdana" bbox="228.615,609.756,231.783,621.942" size="12.186"> </text>
+<text font="Verdana" bbox="231.729,609.756,237.453,621.942" size="12.186">2</text>
+<text font="Verdana" bbox="237.489,609.756,243.213,621.942" size="12.186">0</text>
+<text font="Verdana" bbox="243.249,609.756,248.973,621.942" size="12.186">0</text>
+<text font="Verdana" bbox="249.009,609.756,254.733,621.942" size="12.186">9</text>
+<text font="Verdana" bbox="254.733,609.756,258.009,621.942" size="12.186">,</text>
+<text font="Verdana" bbox="257.973,609.756,261.141,621.942" size="12.186"> </text>
+<text font="Verdana" bbox="261.132,609.756,266.856,621.942" size="12.186">$</text>
+<text font="Verdana" bbox="266.892,609.756,272.616,621.942" size="12.186">3</text>
+<text font="Verdana" bbox="272.652,609.756,275.928,621.942" size="12.186">.</text>
+<text font="Verdana" bbox="275.892,609.756,281.616,621.942" size="12.186">4</text>
+<text font="Verdana" bbox="281.652,609.756,287.376,621.942" size="12.186">5</text>
+<text font="Verdana" bbox="287.412,609.756,290.580,621.942" size="12.186"> </text>
+<text font="Verdana" bbox="290.535,609.756,299.292,621.942" size="12.186">m</text>
+<text font="Verdana" bbox="299.295,609.756,301.761,621.942" size="12.186">i</text>
+<text font="Verdana" bbox="301.695,609.756,304.161,621.942" size="12.186">l</text>
+<text font="Verdana" bbox="304.215,609.756,306.681,621.942" size="12.186">l</text>
+<text font="Verdana" bbox="306.614,609.756,309.080,621.942" size="12.186">i</text>
+<text font="Verdana" bbox="309.135,609.756,314.598,621.942" size="12.186">o</text>
+<text font="Verdana" bbox="314.655,609.756,320.352,621.942" size="12.186">n</text>
+<text font="Verdana" bbox="320.172,609.756,323.340,621.942" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,597.582,111.506,611.068">
+<text font="Verdana" bbox="108.000,597.582,111.506,611.068" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="9" bbox="72.005,585.341,292.609,599.036">
+<textline bbox="72.005,585.341,292.609,599.036">
+<text font="Verdana-Bold" bbox="72.005,585.341,78.797,599.036" size="13.695">T</text>
+<text font="Verdana-Bold" bbox="78.844,585.341,83.794,599.036" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="83.764,585.341,90.418,599.036" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="90.365,585.341,97.456,599.036" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="97.565,585.341,103.471,599.036" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="103.444,585.341,106.851,599.036" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="106.805,585.341,111.347,599.036" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="111.485,585.341,114.891,599.036" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="114.845,585.341,121.319,599.036" size="13.695">F</text>
+<text font="Verdana-Bold" bbox="121.445,585.341,128.098,599.036" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="128.044,585.341,133.901,599.036" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="133.921,585.341,137.327,599.036" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="137.401,585.341,140.807,599.036" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="140.760,585.341,144.167,599.036" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="144.121,585.341,148.663,599.036" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="148.683,585.341,152.089,599.036" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="152.163,585.341,158.776,599.036" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="158.763,585.341,164.669,599.036" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="164.763,585.341,168.169,599.036" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="168.123,585.341,174.776,599.036" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="174.843,585.341,181.934,599.036" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="181.923,585.341,188.885,599.036" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="189.003,585.341,192.409,599.036" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="192.483,585.341,199.554,599.036" size="13.695">S</text>
+<text font="Verdana-Bold" bbox="199.563,585.341,206.177,599.036" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="206.163,585.341,211.113,599.036" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="211.083,585.341,217.557,599.036" size="13.695">v</text>
+<text font="Verdana-Bold" bbox="217.683,585.341,221.089,599.036" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="221.043,585.341,226.899,599.036" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="226.919,585.341,233.533,599.036" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="233.520,585.341,239.426,599.036" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="239.520,585.341,242.926,599.036" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="242.879,585.341,250.180,599.036" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="250.200,585.341,255.150,599.036" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="255.240,585.341,262.082,599.036" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="262.080,585.341,266.094,599.036" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="266.160,585.341,272.773,599.036" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="272.760,585.341,278.617,599.036" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="278.637,585.341,283.178,599.036" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="283.198,585.341,289.105,599.036" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="289.202,585.341,292.609,599.036" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="10" bbox="90.000,574.275,441.081,586.848">
+<textline bbox="90.000,574.275,441.081,586.848">
+<text font="ETFATV+SymbolMT" bbox="90.000,575.220,94.140,586.245" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,574.275,96.579,586.254" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.000,574.473,113.733,586.848" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="113.760,574.473,119.772,586.848" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="119.760,574.473,128.571,586.848" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="128.517,574.473,132.990,586.848" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="132.957,574.473,138.933,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="138.957,574.473,145.365,586.848" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="145.318,574.473,150.610,586.848" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="150.597,574.473,156.573,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="156.597,574.473,159.675,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="159.720,574.473,165.858,586.848" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="165.840,574.473,170.313,586.848" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="170.281,574.473,176.293,586.848" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="176.280,574.473,182.688,586.848" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="182.760,574.473,188.097,586.848" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="188.043,574.473,191.121,586.848" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="191.164,574.473,195.268,586.848" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="195.243,574.473,201.444,586.848" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="201.483,574.473,208.422,586.848" size="12.375">K</text>
+<text font="Verdana-Bold" bbox="208.443,574.473,215.751,586.848" size="12.375">U</text>
+<text font="Verdana-Bold" bbox="215.763,574.473,218.841,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="218.886,574.473,225.069,586.848" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="225.006,574.473,231.414,586.848" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="231.367,574.473,234.445,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="234.490,574.473,244.642,586.848" size="12.375">W</text>
+<text font="Verdana-Bold" bbox="244.689,574.473,251.097,586.848" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="251.049,574.473,257.025,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="257.049,574.473,263.025,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="263.049,574.473,266.127,586.848" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="266.169,574.473,271.506,586.848" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="271.452,574.473,274.530,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="274.629,574.473,281.028,586.848" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="280.917,574.473,283.995,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="284.040,574.473,290.898,586.848" size="12.375">B</text>
+<text font="Verdana-Bold" bbox="290.880,574.473,297.288,586.848" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="297.240,574.473,302.577,586.848" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="302.523,574.473,305.601,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="305.646,574.473,312.684,586.848" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="312.727,574.473,318.703,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="318.726,574.473,325.017,586.848" size="12.375">p</text>
+<text font="Verdana-Bold" bbox="324.963,574.473,328.041,586.848" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="328.082,574.473,334.094,586.848" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="334.083,574.473,339.375,586.848" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="339.362,574.473,345.338,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="345.362,574.473,354.884,586.848" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="354.842,574.473,360.818,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="360.842,574.473,367.250,586.848" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="367.203,574.473,371.307,586.848" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="371.282,574.473,376.619,586.848" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="376.565,574.473,379.643,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="379.742,574.473,386.141,586.848" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="386.037,574.473,389.115,586.848" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="389.160,574.473,394.893,586.848" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="394.920,574.473,400.932,586.848" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="400.920,574.473,409.731,586.848" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="409.800,574.473,414.273,586.848" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="414.239,574.473,420.215,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="420.242,574.473,426.650,586.848" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="426.603,574.473,431.895,586.848" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="431.882,574.473,437.858,586.848" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="438.003,574.473,441.081,586.848" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="11" bbox="108.000,552.639,411.894,575.742">
+<textline bbox="108.000,563.556,411.894,575.742">
+<text font="Verdana" bbox="108.000,563.556,114.282,575.742" size="12.186">C</text>
+<text font="Verdana" bbox="114.240,563.556,116.706,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="116.760,563.556,120.306,575.742" size="12.186">t</text>
+<text font="Verdana" bbox="120.360,563.556,125.688,575.742" size="12.186">y</text>
+<text font="Verdana" bbox="125.640,563.556,133.002,575.742" size="12.186">w</text>
+<text font="Verdana" bbox="132.960,563.556,135.426,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="135.480,563.556,141.087,575.742" size="12.186">d</text>
+<text font="Verdana" bbox="141.120,563.556,146.484,575.742" size="12.186">e</text>
+<text font="Verdana" bbox="146.520,563.556,149.688,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="149.643,563.556,155.340,575.742" size="12.186">u</text>
+<text font="Verdana" bbox="155.283,563.556,159.126,575.742" size="12.186">r</text>
+<text font="Verdana" bbox="159.123,563.556,164.730,575.742" size="12.186">b</text>
+<text font="Verdana" bbox="164.763,563.556,170.172,575.742" size="12.186">a</text>
+<text font="Verdana" bbox="170.163,563.556,175.860,575.742" size="12.186">n</text>
+<text font="Verdana" bbox="175.803,563.556,178.971,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="178.926,563.556,182.472,575.742" size="12.186">t</text>
+<text font="Verdana" bbox="182.526,563.556,186.369,575.742" size="12.186">r</text>
+<text font="Verdana" bbox="186.366,563.556,191.775,575.742" size="12.186">a</text>
+<text font="Verdana" bbox="191.766,563.556,197.463,575.742" size="12.186">n</text>
+<text font="Verdana" bbox="197.406,563.556,202.095,575.742" size="12.186">s</text>
+<text font="Verdana" bbox="202.086,563.556,204.552,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="204.606,563.556,208.152,575.742" size="12.186">t</text>
+<text font="Verdana" bbox="208.206,563.556,211.374,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="211.329,563.556,216.018,575.742" size="12.186">s</text>
+<text font="Verdana" bbox="216.009,563.556,221.373,575.742" size="12.186">e</text>
+<text font="Verdana" bbox="221.409,563.556,225.252,575.742" size="12.186">r</text>
+<text font="Verdana" bbox="225.249,563.556,230.577,575.742" size="12.186">v</text>
+<text font="Verdana" bbox="230.649,563.556,233.115,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="233.169,563.556,237.858,575.742" size="12.186">c</text>
+<text font="Verdana" bbox="237.849,563.556,243.213,575.742" size="12.186">e</text>
+<text font="Verdana" bbox="243.249,563.556,247.938,575.742" size="12.186">s</text>
+<text font="Verdana" bbox="247.797,563.556,250.965,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="252.000,563.556,257.724,575.742" size="12.186">2</text>
+<text font="Verdana" bbox="257.760,563.556,263.484,575.742" size="12.186">0</text>
+<text font="Verdana" bbox="263.520,563.556,269.244,575.742" size="12.186">0</text>
+<text font="Verdana" bbox="269.280,563.556,275.004,575.742" size="12.186">9</text>
+<text font="Verdana" bbox="275.004,563.556,278.280,575.742" size="12.186">,</text>
+<text font="Verdana" bbox="278.244,563.556,281.412,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="281.403,563.556,287.127,575.742" size="12.186">$</text>
+<text font="Verdana" bbox="287.163,563.556,292.887,575.742" size="12.186">2</text>
+<text font="Verdana" bbox="292.923,563.556,296.199,575.742" size="12.186">.</text>
+<text font="Verdana" bbox="296.163,563.556,301.887,575.742" size="12.186">9</text>
+<text font="Verdana" bbox="301.803,563.556,307.527,575.742" size="12.186">3</text>
+<text font="Verdana" bbox="307.563,563.556,310.731,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="310.686,563.556,319.443,575.742" size="12.186">m</text>
+<text font="Verdana" bbox="319.447,563.556,321.913,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="321.967,563.556,324.433,575.742" size="12.186">l</text>
+<text font="Verdana" bbox="324.366,563.556,326.832,575.742" size="12.186">l</text>
+<text font="Verdana" bbox="326.886,563.556,329.352,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="329.407,563.556,334.870,575.742" size="12.186">o</text>
+<text font="Verdana" bbox="334.927,563.556,340.624,575.742" size="12.186">n</text>
+<text font="Verdana" bbox="340.567,563.556,343.735,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="343.690,563.556,349.846,575.742" size="12.186">A</text>
+<text font="Verdana" bbox="349.810,563.556,356.065,575.742" size="12.186">R</text>
+<text font="Verdana" bbox="356.051,563.556,362.306,575.742" size="12.186">R</text>
+<text font="Verdana" bbox="362.291,563.556,368.447,575.742" size="12.186">A</text>
+<text font="Verdana" bbox="368.410,563.556,371.578,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="371.534,563.556,374.702,575.742" size="12.186">f</text>
+<text font="Verdana" bbox="374.774,563.556,380.471,575.742" size="12.186">u</text>
+<text font="Verdana" bbox="380.413,563.556,386.110,575.742" size="12.186">n</text>
+<text font="Verdana" bbox="386.053,563.556,391.660,575.742" size="12.186">d</text>
+<text font="Verdana" bbox="391.696,563.556,394.162,575.742" size="12.186">i</text>
+<text font="Verdana" bbox="394.216,563.556,399.913,575.742" size="12.186">n</text>
+<text font="Verdana" bbox="399.856,563.556,405.463,575.742" size="12.186">g</text>
+<text font="Verdana" bbox="405.499,563.556,408.667,575.742" size="12.186"> </text>
+<text font="Verdana" bbox="408.726,563.556,411.894,575.742" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.009,552.639,111.177,564.825">
+<text font="Verdana" bbox="108.009,552.639,111.177,564.825" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="12" bbox="90.009,541.398,364.877,553.971">
+<textline bbox="90.009,541.398,364.877,553.971">
+<text font="ETFATV+SymbolMT" bbox="90.009,542.343,94.149,553.368" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.086,541.398,96.588,553.377" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.009,541.596,113.742,553.971" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="113.769,541.596,119.781,553.971" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="119.769,541.596,128.580,553.971" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="128.529,541.596,133.002,553.971" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="132.969,541.596,138.945,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="138.969,541.596,145.377,553.971" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="145.329,541.596,150.621,553.971" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="150.609,541.596,156.585,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="156.609,541.596,159.687,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="159.732,541.596,165.870,553.971" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="165.852,541.596,170.325,553.971" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="170.292,541.596,176.304,553.971" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="176.291,541.596,182.699,553.971" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="182.771,541.596,188.108,553.971" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="188.051,541.596,191.129,553.971" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="191.172,541.596,195.276,553.971" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="195.251,541.596,198.329,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="198.392,541.596,204.791,553.971" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="204.732,541.596,207.810,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="207.855,541.596,214.713,553.971" size="12.375">B</text>
+<text font="Verdana-Bold" bbox="214.695,541.596,221.103,553.971" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="221.055,541.596,226.392,553.971" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="226.338,541.596,229.416,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="229.578,541.596,236.616,553.971" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="236.659,541.596,242.635,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="242.659,541.596,248.950,553.971" size="12.375">p</text>
+<text font="Verdana-Bold" bbox="248.896,541.596,251.974,553.971" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="252.015,541.596,258.027,553.971" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="258.016,541.596,263.308,553.971" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="263.296,541.596,269.272,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="269.295,541.596,278.817,553.971" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="278.776,541.596,284.752,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="284.775,541.596,291.183,553.971" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="291.136,541.596,295.240,553.971" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="295.215,541.596,300.552,553.971" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="300.498,541.596,303.576,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="303.615,541.596,310.014,553.971" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="309.978,541.596,313.056,553.971" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="313.101,541.596,318.834,553.971" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="318.861,541.596,324.873,553.971" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="324.860,541.596,333.671,553.971" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="333.621,541.596,338.094,553.971" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="338.061,541.596,344.037,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="344.064,541.596,350.472,553.971" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="350.544,541.596,355.836,553.971" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="355.823,541.596,361.799,553.971" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="361.799,541.596,364.877,553.971" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="13" bbox="108.018,519.762,343.629,542.865">
+<textline bbox="108.018,530.679,343.629,542.865">
+<text font="Verdana" bbox="108.018,530.679,114.300,542.865" size="12.186">C</text>
+<text font="Verdana" bbox="114.258,530.679,116.724,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="116.778,530.679,120.324,542.865" size="12.186">t</text>
+<text font="Verdana" bbox="120.378,530.679,125.706,542.865" size="12.186">y</text>
+<text font="Verdana" bbox="125.658,530.679,133.020,542.865" size="12.186">w</text>
+<text font="Verdana" bbox="132.979,530.679,135.445,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="135.499,530.679,141.106,542.865" size="12.186">d</text>
+<text font="Verdana" bbox="141.139,530.679,146.503,542.865" size="12.186">e</text>
+<text font="Verdana" bbox="146.539,530.679,149.707,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="149.662,530.679,155.359,542.865" size="12.186">u</text>
+<text font="Verdana" bbox="155.302,530.679,159.145,542.865" size="12.186">r</text>
+<text font="Verdana" bbox="159.142,530.679,164.749,542.865" size="12.186">b</text>
+<text font="Verdana" bbox="164.782,530.679,170.191,542.865" size="12.186">a</text>
+<text font="Verdana" bbox="170.182,530.679,175.879,542.865" size="12.186">n</text>
+<text font="Verdana" bbox="175.822,530.679,178.990,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="178.945,530.679,182.491,542.865" size="12.186">t</text>
+<text font="Verdana" bbox="182.545,530.679,186.388,542.865" size="12.186">r</text>
+<text font="Verdana" bbox="186.385,530.679,191.794,542.865" size="12.186">a</text>
+<text font="Verdana" bbox="191.785,530.679,197.482,542.865" size="12.186">n</text>
+<text font="Verdana" bbox="197.425,530.679,202.114,542.865" size="12.186">s</text>
+<text font="Verdana" bbox="202.105,530.679,204.571,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="204.625,530.679,208.171,542.865" size="12.186">t</text>
+<text font="Verdana" bbox="208.225,530.679,211.393,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="211.348,530.679,216.037,542.865" size="12.186">s</text>
+<text font="Verdana" bbox="216.028,530.679,221.392,542.865" size="12.186">e</text>
+<text font="Verdana" bbox="221.428,530.679,225.271,542.865" size="12.186">r</text>
+<text font="Verdana" bbox="225.268,530.679,230.596,542.865" size="12.186">v</text>
+<text font="Verdana" bbox="230.668,530.679,233.134,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="233.188,530.679,237.877,542.865" size="12.186">c</text>
+<text font="Verdana" bbox="237.868,530.679,243.232,542.865" size="12.186">e</text>
+<text font="Verdana" bbox="243.268,530.679,247.957,542.865" size="12.186">s</text>
+<text font="Verdana" bbox="247.815,530.679,250.983,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="252.018,530.679,257.742,542.865" size="12.186">2</text>
+<text font="Verdana" bbox="257.778,530.679,263.502,542.865" size="12.186">0</text>
+<text font="Verdana" bbox="263.538,530.679,269.262,542.865" size="12.186">0</text>
+<text font="Verdana" bbox="269.298,530.679,275.022,542.865" size="12.186">8</text>
+<text font="Verdana" bbox="275.022,530.679,278.298,542.865" size="12.186">,</text>
+<text font="Verdana" bbox="278.262,530.679,281.430,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="281.421,530.679,287.145,542.865" size="12.186">$</text>
+<text font="Verdana" bbox="287.181,530.679,292.905,542.865" size="12.186">1</text>
+<text font="Verdana" bbox="292.941,530.679,296.217,542.865" size="12.186">.</text>
+<text font="Verdana" bbox="296.181,530.679,301.905,542.865" size="12.186">5</text>
+<text font="Verdana" bbox="301.821,530.679,307.545,542.865" size="12.186">2</text>
+<text font="Verdana" bbox="307.581,530.679,310.749,542.865" size="12.186"> </text>
+<text font="Verdana" bbox="310.704,530.679,319.461,542.865" size="12.186">m</text>
+<text font="Verdana" bbox="319.465,530.679,321.931,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="321.985,530.679,324.451,542.865" size="12.186">l</text>
+<text font="Verdana" bbox="324.385,530.679,326.851,542.865" size="12.186">l</text>
+<text font="Verdana" bbox="326.905,530.679,329.371,542.865" size="12.186">i</text>
+<text font="Verdana" bbox="329.425,530.679,334.888,542.865" size="12.186">o</text>
+<text font="Verdana" bbox="334.942,530.679,340.639,542.865" size="12.186">n</text>
+<text font="Verdana" bbox="340.461,530.679,343.629,542.865" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.018,519.762,114.309,531.948">
+<text font="Verdana" bbox="108.018,519.762,111.186,531.948" size="12.186"> </text>
+<text font="Verdana" bbox="111.141,519.762,114.309,531.948" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="14" bbox="90.018,508.647,364.886,521.220">
+<textline bbox="90.018,508.647,364.886,521.220">
+<text font="ETFATV+SymbolMT" bbox="90.018,509.592,94.158,520.617" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.095,508.647,96.597,520.626" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.018,508.845,113.751,521.220" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="113.778,508.845,119.790,521.220" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="119.778,508.845,128.589,521.220" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="128.538,508.845,133.011,521.220" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="132.978,508.845,138.954,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="138.978,508.845,145.386,521.220" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="145.338,508.845,150.630,521.220" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="150.618,508.845,156.594,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="156.618,508.845,159.696,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="159.741,508.845,165.879,521.220" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="165.861,508.845,170.334,521.220" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="170.301,508.845,176.313,521.220" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="176.300,508.845,182.708,521.220" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="182.780,508.845,188.117,521.220" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="188.060,508.845,191.138,521.220" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="191.181,508.845,195.285,521.220" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="195.260,508.845,198.338,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="198.401,508.845,204.800,521.220" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="204.741,508.845,207.819,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="207.864,508.845,214.722,521.220" size="12.375">B</text>
+<text font="Verdana-Bold" bbox="214.704,508.845,221.112,521.220" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="221.064,508.845,226.401,521.220" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="226.347,508.845,229.425,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="229.587,508.845,236.625,521.220" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="236.668,508.845,242.644,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="242.668,508.845,248.959,521.220" size="12.375">p</text>
+<text font="Verdana-Bold" bbox="248.905,508.845,251.983,521.220" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="252.024,508.845,258.036,521.220" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="258.025,508.845,263.317,521.220" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="263.305,508.845,269.281,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="269.304,508.845,278.826,521.220" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="278.785,508.845,284.761,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="284.784,508.845,291.192,521.220" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="291.145,508.845,295.249,521.220" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="295.224,508.845,300.561,521.220" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="300.507,508.845,303.585,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="303.624,508.845,310.023,521.220" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="309.987,508.845,313.065,521.220" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="313.110,508.845,318.843,521.220" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="318.870,508.845,324.882,521.220" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="324.869,508.845,333.680,521.220" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="333.630,508.845,338.103,521.220" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="338.070,508.845,344.046,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="344.073,508.845,350.481,521.220" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="350.553,508.845,355.845,521.220" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="355.832,508.845,361.808,521.220" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="361.808,508.845,364.886,521.220" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="15" bbox="108.000,485.742,352.488,510.114">
+<textline bbox="108.027,497.928,352.488,510.114">
+<text font="Verdana" bbox="108.027,497.928,114.309,510.114" size="12.186">C</text>
+<text font="Verdana" bbox="114.267,497.928,116.733,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="116.787,497.928,120.333,510.114" size="12.186">t</text>
+<text font="Verdana" bbox="120.387,497.928,125.715,510.114" size="12.186">y</text>
+<text font="Verdana" bbox="125.667,497.928,133.029,510.114" size="12.186">w</text>
+<text font="Verdana" bbox="132.988,497.928,135.454,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="135.508,497.928,141.115,510.114" size="12.186">d</text>
+<text font="Verdana" bbox="141.148,497.928,146.512,510.114" size="12.186">e</text>
+<text font="Verdana" bbox="146.548,497.928,149.716,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="149.671,497.928,155.368,510.114" size="12.186">u</text>
+<text font="Verdana" bbox="155.311,497.928,159.154,510.114" size="12.186">r</text>
+<text font="Verdana" bbox="159.151,497.928,164.758,510.114" size="12.186">b</text>
+<text font="Verdana" bbox="164.791,497.928,170.200,510.114" size="12.186">a</text>
+<text font="Verdana" bbox="170.191,497.928,175.888,510.114" size="12.186">n</text>
+<text font="Verdana" bbox="175.831,497.928,178.999,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="178.954,497.928,182.500,510.114" size="12.186">t</text>
+<text font="Verdana" bbox="182.554,497.928,186.397,510.114" size="12.186">r</text>
+<text font="Verdana" bbox="186.394,497.928,191.803,510.114" size="12.186">a</text>
+<text font="Verdana" bbox="191.794,497.928,197.491,510.114" size="12.186">n</text>
+<text font="Verdana" bbox="197.434,497.928,202.123,510.114" size="12.186">s</text>
+<text font="Verdana" bbox="202.114,497.928,204.580,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="204.634,497.928,208.180,510.114" size="12.186">t</text>
+<text font="Verdana" bbox="208.234,497.928,211.402,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="211.357,497.928,216.046,510.114" size="12.186">s</text>
+<text font="Verdana" bbox="216.037,497.928,221.401,510.114" size="12.186">e</text>
+<text font="Verdana" bbox="221.437,497.928,225.280,510.114" size="12.186">r</text>
+<text font="Verdana" bbox="225.277,497.928,230.605,510.114" size="12.186">v</text>
+<text font="Verdana" bbox="230.677,497.928,233.143,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="233.197,497.928,237.886,510.114" size="12.186">c</text>
+<text font="Verdana" bbox="237.877,497.928,243.241,510.114" size="12.186">e</text>
+<text font="Verdana" bbox="243.277,497.928,247.966,510.114" size="12.186">s</text>
+<text font="Verdana" bbox="247.824,497.928,250.992,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="252.027,497.928,257.751,510.114" size="12.186">2</text>
+<text font="Verdana" bbox="257.787,497.928,263.511,510.114" size="12.186">0</text>
+<text font="Verdana" bbox="263.547,497.928,269.271,510.114" size="12.186">0</text>
+<text font="Verdana" bbox="269.307,497.928,275.031,510.114" size="12.186">9</text>
+<text font="Verdana" bbox="275.031,497.928,278.307,510.114" size="12.186">,</text>
+<text font="Verdana" bbox="278.271,497.928,281.439,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="281.430,497.928,287.154,510.114" size="12.186">$</text>
+<text font="Verdana" bbox="287.190,497.928,292.914,510.114" size="12.186">1</text>
+<text font="Verdana" bbox="292.950,497.928,296.226,510.114" size="12.186">.</text>
+<text font="Verdana" bbox="296.190,497.928,301.914,510.114" size="12.186">1</text>
+<text font="Verdana" bbox="301.830,497.928,307.554,510.114" size="12.186">4</text>
+<text font="Verdana" bbox="307.590,497.928,313.314,510.114" size="12.186">5</text>
+<text font="Verdana" bbox="313.350,497.928,316.518,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="316.473,497.928,325.230,510.114" size="12.186">m</text>
+<text font="Verdana" bbox="325.233,497.928,327.699,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="327.753,497.928,330.219,510.114" size="12.186">l</text>
+<text font="Verdana" bbox="330.152,497.928,332.618,510.114" size="12.186">l</text>
+<text font="Verdana" bbox="332.673,497.928,335.139,510.114" size="12.186">i</text>
+<text font="Verdana" bbox="335.073,497.928,340.536,510.114" size="12.186">o</text>
+<text font="Verdana" bbox="340.593,497.928,346.290,510.114" size="12.186">n</text>
+<text font="Verdana" bbox="346.233,497.928,349.401,510.114" size="12.186"> </text>
+<text font="Verdana" bbox="349.320,497.928,352.488,510.114" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,485.742,111.506,499.228">
+<text font="Verdana" bbox="108.000,485.742,111.506,499.228" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="16" bbox="72.005,473.501,313.614,487.196">
+<textline bbox="72.005,473.501,313.614,487.196">
+<text font="Verdana-Bold" bbox="72.005,473.501,79.594,487.196" size="13.695">B</text>
+<text font="Verdana-Bold" bbox="79.564,473.501,82.971,487.196" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="82.921,473.501,89.604,487.196" size="13.695">k</text>
+<text font="Verdana-Bold" bbox="89.641,473.501,96.254,487.196" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="96.361,473.501,106.112,487.196" size="13.695">w</text>
+<text font="Verdana-Bold" bbox="106.201,473.501,112.855,487.196" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="112.805,473.501,119.289,487.196" size="13.695">y</text>
+<text font="Verdana-Bold" bbox="119.285,473.501,122.691,487.196" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="122.765,473.501,129.418,487.196" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="129.368,473.501,136.460,487.196" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="136.568,473.501,143.530,487.196" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="143.528,473.501,146.935,487.196" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="146.888,473.501,154.189,487.196" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="154.208,473.501,160.822,487.196" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="160.928,473.501,167.890,487.196" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="167.888,473.501,174.502,487.196" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="174.608,473.501,180.515,487.196" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="180.488,473.501,185.030,487.196" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="185.049,473.501,189.999,487.196" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="189.969,473.501,193.375,487.196" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="193.448,473.501,200.101,487.196" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="200.051,473.501,207.143,487.196" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="207.251,473.501,210.658,487.196" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="210.612,473.501,217.086,487.196" size="13.695">F</text>
+<text font="Verdana-Bold" bbox="217.092,473.501,223.745,487.196" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="223.695,473.501,229.552,487.196" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="229.695,473.501,233.102,487.196" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="233.052,473.501,236.458,487.196" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="236.532,473.501,239.938,487.196" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="239.888,473.501,244.430,487.196" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="244.449,473.501,247.855,487.196" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="247.929,473.501,254.542,487.196" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="254.529,473.501,260.435,487.196" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="260.529,473.501,263.936,487.196" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="263.889,473.501,271.190,487.196" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="271.209,473.501,276.159,487.196" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="276.129,473.501,282.971,487.196" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="283.089,473.501,287.103,487.196" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="287.053,473.501,293.666,487.196" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="293.653,473.501,299.510,487.196" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="299.533,473.501,304.075,487.196" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="304.213,473.501,310.119,487.196" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="310.208,473.501,313.614,487.196" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="17" bbox="90.000,462.435,360.207,475.008">
+<textline bbox="90.000,462.435,360.207,475.008">
+<text font="ETFATV+SymbolMT" bbox="90.000,463.380,94.140,474.405" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,462.435,96.579,474.414" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.000,462.633,116.532,475.008" size="12.375">M</text>
+<text font="Verdana-Bold" bbox="116.520,462.633,122.532,475.008" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="122.520,462.633,125.598,475.008" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="125.640,462.633,132.048,475.008" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="132.000,462.633,135.078,475.008" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="135.123,462.633,141.513,475.008" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="141.484,462.633,145.588,475.008" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="145.563,462.633,150.036,475.008" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="150.000,462.633,155.976,475.008" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="156.000,462.633,161.976,475.008" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="162.000,462.633,166.104,475.008" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="166.080,462.633,169.158,475.008" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="169.203,462.633,175.350,475.008" size="12.375">E</text>
+<text font="Verdana-Bold" bbox="175.323,462.633,181.731,475.008" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="181.683,462.633,188.091,475.008" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="188.042,462.633,194.054,475.008" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="194.162,462.633,200.570,475.008" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="200.523,462.633,205.815,475.008" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="205.802,462.633,211.778,475.008" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="211.802,462.633,221.324,475.008" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="221.282,462.633,227.258,475.008" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="227.402,462.633,233.810,475.008" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="233.762,462.633,237.866,475.008" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="237.842,462.633,243.179,475.008" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="243.125,462.633,246.203,475.008" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="246.302,462.633,252.701,475.008" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="252.603,462.633,255.681,475.008" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="255.726,462.633,261.873,475.008" size="12.375">E</text>
+<text font="Verdana-Bold" bbox="261.846,462.633,268.254,475.008" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="268.326,462.633,274.617,475.008" size="12.375">d</text>
+<text font="Verdana-Bold" bbox="274.563,462.633,280.746,475.008" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="280.804,462.633,285.277,475.008" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="285.243,462.633,291.255,475.008" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="291.249,462.633,294.327,475.008" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="294.372,462.633,299.259,475.008" size="12.375">(</text>
+<text font="Verdana" bbox="299.295,462.633,304.839,474.819" size="12.186">T</text>
+<text font="Verdana" bbox="304.812,462.633,310.500,474.819" size="12.186">E</text>
+<text font="Verdana" bbox="310.455,462.633,314.541,474.819" size="12.186">-</text>
+<text font="Verdana" bbox="314.532,462.633,320.256,474.819" size="12.186">0</text>
+<text font="Verdana" bbox="320.292,462.633,326.016,474.819" size="12.186">3</text>
+<text font="Verdana" bbox="326.052,462.633,331.776,474.819" size="12.186">0</text>
+<text font="Verdana" bbox="331.812,462.633,337.536,474.819" size="12.186">7</text>
+<text font="Verdana" bbox="337.536,462.633,341.622,474.819" size="12.186">-</text>
+<text font="Verdana" bbox="341.649,462.633,347.373,474.819" size="12.186">0</text>
+<text font="Verdana" bbox="347.292,462.633,353.016,474.819" size="12.186">1</text>
+<text font="Verdana" bbox="353.052,462.633,357.138,474.819" size="12.186">)</text>
+<text font="Verdana-Bold" bbox="357.129,462.633,360.207,475.008" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="18" bbox="108.006,440.796,283.731,464.706">
+<textline bbox="108.009,451.713,283.731,464.706">
+<text font="Verdana" bbox="108.009,451.716,113.733,463.902" size="12.186">7</text>
+<text font="Verdana" bbox="113.760,456.582,116.124,464.706" size="8.124">t</text>
+<text font="Verdana" bbox="116.160,456.582,119.958,464.706" size="8.124">h</text>
+<text font="Verdana" bbox="119.880,451.713,123.048,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="123.003,451.713,126.549,463.899" size="12.186">t</text>
+<text font="Verdana" bbox="126.603,451.713,132.066,463.899" size="12.186">o</text>
+<text font="Verdana" bbox="132.120,451.713,135.288,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="135.243,451.713,140.967,463.899" size="12.186">9</text>
+<text font="Verdana" bbox="141.000,456.582,143.364,464.706" size="8.124">t</text>
+<text font="Verdana" bbox="143.400,456.582,147.198,464.706" size="8.124">h</text>
+<text font="Verdana" bbox="147.120,451.713,150.288,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="150.243,451.713,156.399,463.899" size="12.186">S</text>
+<text font="Verdana" bbox="156.363,451.713,159.909,463.899" size="12.186">t</text>
+<text font="Verdana" bbox="159.963,451.713,163.806,463.899" size="12.186">r</text>
+<text font="Verdana" bbox="163.803,451.713,169.167,463.899" size="12.186">e</text>
+<text font="Verdana" bbox="169.203,451.713,174.567,463.899" size="12.186">e</text>
+<text font="Verdana" bbox="174.603,451.713,178.149,463.899" size="12.186">t</text>
+<text font="Verdana" bbox="178.080,451.713,181.248,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="179.997,451.713,183.273,463.899" size="12.186">,</text>
+<text font="Verdana" bbox="183.237,451.713,186.405,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="186.360,451.713,192.084,463.899" size="12.186">2</text>
+<text font="Verdana" bbox="192.120,451.713,197.844,463.899" size="12.186">0</text>
+<text font="Verdana" bbox="197.880,451.713,203.604,463.899" size="12.186">0</text>
+<text font="Verdana" bbox="203.640,451.713,209.364,463.899" size="12.186">8</text>
+<text font="Verdana" bbox="209.364,451.713,212.640,463.899" size="12.186">,</text>
+<text font="Verdana" bbox="212.604,451.713,215.772,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="215.763,451.713,221.487,463.899" size="12.186">$</text>
+<text font="Verdana" bbox="221.523,451.713,227.247,463.899" size="12.186">2</text>
+<text font="Verdana" bbox="227.283,451.713,230.559,463.899" size="12.186">.</text>
+<text font="Verdana" bbox="230.523,451.713,236.247,463.899" size="12.186">0</text>
+<text font="Verdana" bbox="236.283,451.713,242.007,463.899" size="12.186">8</text>
+<text font="Verdana" bbox="242.043,451.713,247.767,463.899" size="12.186">7</text>
+<text font="Verdana" bbox="247.803,451.713,250.971,463.899" size="12.186"> </text>
+<text font="Verdana" bbox="250.926,451.713,259.683,463.899" size="12.186">m</text>
+<text font="Verdana" bbox="259.686,451.713,262.152,463.899" size="12.186">i</text>
+<text font="Verdana" bbox="262.086,451.713,264.552,463.899" size="12.186">l</text>
+<text font="Verdana" bbox="264.606,451.713,267.072,463.899" size="12.186">l</text>
+<text font="Verdana" bbox="267.006,451.713,269.472,463.899" size="12.186">i</text>
+<text font="Verdana" bbox="269.526,451.713,274.989,463.899" size="12.186">o</text>
+<text font="Verdana" bbox="275.046,451.713,280.743,463.899" size="12.186">n</text>
+<text font="Verdana" bbox="280.563,451.713,283.731,463.899" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.006,440.796,111.174,452.982">
+<text font="Verdana" bbox="108.006,440.796,111.174,452.982" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="19" bbox="90.006,429.681,371.130,442.254">
+<textline bbox="90.006,429.681,371.130,442.254">
+<text font="ETFATV+SymbolMT" bbox="90.006,430.626,94.146,441.651" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.083,429.681,96.585,441.660" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.006,429.879,114.864,442.254" size="12.375">B</text>
+<text font="Verdana-Bold" bbox="114.846,429.879,121.254,442.254" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="121.206,429.879,125.679,442.254" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="125.646,429.879,130.119,442.254" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="130.206,429.879,136.389,442.254" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="136.325,429.879,142.733,442.254" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="142.806,429.879,149.097,442.254" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="149.043,429.879,155.451,442.254" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="155.403,429.879,160.740,442.254" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="160.686,429.879,163.764,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="163.809,429.879,170.325,442.254" size="12.375">C</text>
+<text font="Verdana-Bold" bbox="170.408,429.879,174.881,442.254" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="174.848,429.879,180.824,442.254" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="180.848,429.879,186.824,442.254" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="186.848,429.879,192.887,442.254" size="12.375">k</text>
+<text font="Verdana-Bold" bbox="192.848,429.879,195.926,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="195.971,429.879,203.009,442.254" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="203.050,429.879,209.062,442.254" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="209.051,429.879,212.129,442.254" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="212.171,429.879,215.249,442.254" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="215.290,429.879,218.368,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="218.413,429.879,224.551,442.254" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="224.533,429.879,229.006,442.254" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="228.853,429.879,234.865,442.254" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="234.854,429.879,237.932,442.254" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="237.973,429.879,241.051,442.254" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="241.093,429.879,244.171,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="244.270,429.879,250.669,442.254" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="250.566,429.879,253.644,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="253.689,429.879,259.422,442.254" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="259.449,429.879,265.461,442.254" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="265.449,429.879,274.260,442.254" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="274.206,429.879,278.679,442.254" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="278.646,429.879,284.622,442.254" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="284.646,429.879,291.054,442.254" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="291.007,429.879,296.299,442.254" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="296.286,429.879,302.262,442.254" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="302.289,429.879,305.367,442.254" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="305.412,429.879,310.299,442.254" size="12.375">(</text>
+<text font="Verdana" bbox="310.335,429.879,315.879,442.065" size="12.186">T</text>
+<text font="Verdana" bbox="315.852,429.879,321.540,442.065" size="12.186">E</text>
+<text font="Verdana" bbox="321.495,429.879,325.581,442.065" size="12.186">-</text>
+<text font="Verdana" bbox="325.572,429.879,331.296,442.065" size="12.186">0</text>
+<text font="Verdana" bbox="331.332,429.879,337.056,442.065" size="12.186">3</text>
+<text font="Verdana" bbox="337.092,429.879,342.816,442.065" size="12.186">2</text>
+<text font="Verdana" bbox="342.852,429.879,348.576,442.065" size="12.186">1</text>
+<text font="Verdana" bbox="348.495,429.879,352.581,442.065" size="12.186">-</text>
+<text font="Verdana" bbox="352.572,429.879,358.296,442.065" size="12.186">0</text>
+<text font="Verdana" bbox="358.332,429.879,364.056,442.065" size="12.186">1</text>
+<text font="Verdana" bbox="364.056,429.879,368.142,442.065" size="12.186">)</text>
+<text font="Verdana-Bold" bbox="368.052,429.879,371.130,442.254" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="20" bbox="108.006,407.910,271.977,431.946">
+<textline bbox="108.015,418.953,271.977,431.946">
+<text font="Verdana" bbox="108.015,418.962,113.739,431.148" size="12.186">1</text>
+<text font="Verdana" bbox="113.775,418.962,119.499,431.148" size="12.186">1</text>
+<text font="Verdana" bbox="119.400,423.822,121.764,431.946" size="8.124">t</text>
+<text font="Verdana" bbox="121.800,423.822,125.598,431.946" size="8.124">h</text>
+<text font="Verdana" bbox="125.640,418.953,128.808,431.139" size="12.186"> </text>
+<text font="Verdana" bbox="128.763,418.953,132.309,431.139" size="12.186">t</text>
+<text font="Verdana" bbox="132.363,418.953,137.826,431.139" size="12.186">o</text>
+<text font="Verdana" bbox="137.880,418.953,141.048,431.139" size="12.186"> </text>
+<text font="Verdana" bbox="141.003,418.953,146.727,431.139" size="12.186">2</text>
+<text font="Verdana" bbox="146.763,418.953,152.487,431.139" size="12.186">3</text>
+<text font="Verdana" bbox="152.400,423.822,154.962,431.946" size="8.124">r</text>
+<text font="Verdana" bbox="154.920,423.822,158.658,431.946" size="8.124">d</text>
+<text font="Verdana" bbox="158.640,418.953,161.808,431.139" size="12.186"> </text>
+<text font="Verdana" bbox="161.763,418.953,167.919,431.139" size="12.186">S</text>
+<text font="Verdana" bbox="167.883,418.953,171.429,431.139" size="12.186">t</text>
+<text font="Verdana" bbox="171.483,418.953,175.326,431.139" size="12.186">r</text>
+<text font="Verdana" bbox="175.323,418.953,180.687,431.139" size="12.186">e</text>
+<text font="Verdana" bbox="180.723,418.953,186.087,431.139" size="12.186">e</text>
+<text font="Verdana" bbox="186.123,418.953,189.669,431.139" size="12.186">t</text>
+<text font="Verdana" bbox="189.726,418.953,193.002,431.139" size="12.186">,</text>
+<text font="Verdana" bbox="192.966,418.953,196.134,431.139" size="12.186"> </text>
+<text font="Verdana" bbox="196.089,418.953,201.813,431.139" size="12.186">2</text>
+<text font="Verdana" bbox="201.849,418.953,207.573,431.139" size="12.186">0</text>
+<text font="Verdana" bbox="207.609,418.953,213.333,431.139" size="12.186">0</text>
+<text font="Verdana" bbox="213.369,418.953,219.093,431.139" size="12.186">9</text>
+<text font="Verdana" bbox="219.093,418.953,222.369,431.139" size="12.186">,</text>
+<text font="Verdana" bbox="222.333,418.953,225.501,431.139" size="12.186"> </text>
+<text font="Verdana" bbox="225.492,418.953,231.216,431.139" size="12.186">$</text>
+<text font="Verdana" bbox="231.252,418.953,236.976,431.139" size="12.186">8</text>
+<text font="Verdana" bbox="237.012,418.953,242.736,431.139" size="12.186">4</text>
+<text font="Verdana" bbox="242.772,418.953,248.496,431.139" size="12.186">6</text>
+<text font="Verdana" bbox="248.532,418.953,251.808,431.139" size="12.186">,</text>
+<text font="Verdana" bbox="251.772,418.953,257.496,431.139" size="12.186">0</text>
+<text font="Verdana" bbox="257.412,418.953,263.136,431.139" size="12.186">0</text>
+<text font="Verdana" bbox="263.136,418.953,268.860,431.139" size="12.186">0</text>
+<text font="Verdana" bbox="268.809,418.953,271.977,431.139" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.006,407.910,111.174,420.096">
+<text font="Verdana" bbox="108.006,407.910,111.174,420.096" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="21" bbox="90.006,396.795,281.238,409.368">
+<textline bbox="90.006,396.795,281.238,409.368">
+<text font="ETFATV+SymbolMT" bbox="90.006,397.740,94.146,408.765" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.083,396.795,96.585,408.774" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.006,396.993,114.522,409.368" size="12.375">C</text>
+<text font="Verdana-Bold" bbox="114.486,396.993,117.564,409.368" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="117.606,396.993,120.684,409.368" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="120.726,396.993,127.134,409.368" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="127.086,396.993,131.190,409.368" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="131.166,396.993,137.349,409.368" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="137.286,396.993,143.694,409.368" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="143.646,396.993,146.724,409.368" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="146.769,396.993,153.366,409.368" size="12.375">P</text>
+<text font="Verdana-Bold" bbox="153.370,396.993,159.382,409.368" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="159.369,396.993,163.842,409.368" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="163.810,396.993,169.849,409.368" size="12.375">k</text>
+<text font="Verdana-Bold" bbox="169.930,396.993,178.741,409.368" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="178.687,396.993,184.699,409.368" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="184.686,396.993,190.545,409.368" size="12.375">y</text>
+<text font="Verdana-Bold" bbox="190.567,396.993,193.645,409.368" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="193.690,396.993,200.287,409.368" size="12.375">P</text>
+<text font="Verdana-Bold" bbox="200.290,396.993,206.302,409.368" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="206.290,396.993,210.394,409.368" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="210.370,396.993,216.778,409.368" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="216.730,396.993,219.808,409.368" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="219.907,396.993,226.306,409.368" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="226.203,396.993,229.281,409.368" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="229.443,396.993,235.176,409.368" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="235.203,396.993,241.215,409.368" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="241.203,396.993,250.014,409.368" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="249.960,396.993,254.433,409.368" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="254.400,396.993,260.376,409.368" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="260.400,396.993,266.808,409.368" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="266.761,396.993,272.053,409.368" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="272.040,396.993,278.016,409.368" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="278.160,396.993,281.238,409.368" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="22" bbox="107.997,386.076,340.962,398.262">
+<textline bbox="107.997,386.076,340.962,398.262">
+<text font="Verdana" bbox="107.997,386.076,116.898,398.262" size="12.186">W</text>
+<text font="Verdana" bbox="116.877,386.076,122.286,398.262" size="12.186">a</text>
+<text font="Verdana" bbox="122.277,386.076,127.605,398.262" size="12.186">k</text>
+<text font="Verdana" bbox="127.558,386.076,132.967,398.262" size="12.186">a</text>
+<text font="Verdana" bbox="132.958,386.076,136.801,398.262" size="12.186">r</text>
+<text font="Verdana" bbox="136.797,386.076,142.494,398.262" size="12.186">u</text>
+<text font="Verdana" bbox="142.437,386.076,147.126,398.262" size="12.186">s</text>
+<text font="Verdana" bbox="147.117,386.076,152.526,398.262" size="12.186">a</text>
+<text font="Verdana" bbox="152.638,386.076,155.806,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="155.761,386.076,162.700,398.262" size="12.186">D</text>
+<text font="Verdana" bbox="162.721,386.076,166.564,398.262" size="12.186">r</text>
+<text font="Verdana" bbox="166.561,386.076,169.027,398.262" size="12.186">i</text>
+<text font="Verdana" bbox="169.081,386.076,174.409,398.262" size="12.186">v</text>
+<text font="Verdana" bbox="174.361,386.076,179.725,398.262" size="12.186">e</text>
+<text font="Verdana" bbox="179.761,386.076,182.929,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="182.884,386.076,186.430,398.262" size="12.186">t</text>
+<text font="Verdana" bbox="186.484,386.076,191.947,398.262" size="12.186">o</text>
+<text font="Verdana" bbox="192.005,386.076,195.173,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="195.128,386.076,201.365,398.262" size="12.186">K</text>
+<text font="Verdana" bbox="201.354,386.076,205.440,398.262" size="12.186">-</text>
+<text font="Verdana" bbox="205.431,386.076,211.155,398.262" size="12.186">1</text>
+<text font="Verdana" bbox="211.191,386.076,216.915,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="216.951,386.076,220.119,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="220.074,386.076,226.833,398.262" size="12.186">H</text>
+<text font="Verdana" bbox="226.793,386.076,229.259,398.262" size="12.186">i</text>
+<text font="Verdana" bbox="229.314,386.076,234.921,398.262" size="12.186">g</text>
+<text font="Verdana" bbox="234.957,386.076,240.654,398.262" size="12.186">h</text>
+<text font="Verdana" bbox="240.598,386.076,247.960,398.262" size="12.186">w</text>
+<text font="Verdana" bbox="247.917,386.076,253.326,398.262" size="12.186">a</text>
+<text font="Verdana" bbox="253.317,386.076,258.645,398.262" size="12.186">y</text>
+<text font="Verdana" bbox="258.594,386.076,261.870,398.262" size="12.186">,</text>
+<text font="Verdana" bbox="261.954,386.076,265.122,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="265.074,386.076,270.798,398.262" size="12.186">2</text>
+<text font="Verdana" bbox="270.834,386.076,276.558,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="276.594,386.076,282.318,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="282.354,386.076,288.078,398.262" size="12.186">9</text>
+<text font="Verdana" bbox="288.078,386.076,291.354,398.262" size="12.186">,</text>
+<text font="Verdana" bbox="291.318,386.076,294.486,398.262" size="12.186"> </text>
+<text font="Verdana" bbox="294.477,386.076,300.201,398.262" size="12.186">$</text>
+<text font="Verdana" bbox="300.237,386.076,305.961,398.262" size="12.186">8</text>
+<text font="Verdana" bbox="305.997,386.076,311.721,398.262" size="12.186">5</text>
+<text font="Verdana" bbox="311.757,386.076,317.481,398.262" size="12.186">1</text>
+<text font="Verdana" bbox="317.517,386.076,320.793,398.262" size="12.186">,</text>
+<text font="Verdana" bbox="320.757,386.076,326.481,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="326.397,386.076,332.121,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="332.157,386.076,337.881,398.262" size="12.186">0</text>
+<text font="Verdana" bbox="337.794,386.076,340.962,398.262" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="23" bbox="72.000,361.781,532.600,387.597">
+<textline bbox="72.000,373.902,75.406,387.597">
+<text font="Verdana-Bold" bbox="72.000,373.902,75.406,387.597" size="13.695"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="72.000,361.781,532.600,375.476">
+<text font="Verdana-Bold" bbox="72.000,361.781,81.442,375.476" size="13.695">M</text>
+<text font="Verdana-Bold" bbox="81.480,361.781,88.133,375.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="88.083,361.781,92.097,375.476" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="92.047,361.781,98.890,375.476" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="99.008,361.781,103.958,375.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="103.927,361.781,107.333,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="107.278,361.781,114.579,375.476" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="114.718,361.781,119.669,375.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="119.639,361.781,126.481,375.476" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="126.599,361.781,130.613,375.476" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="130.559,361.781,137.172,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="137.158,361.781,143.015,375.476" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="143.039,361.781,147.580,375.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="147.598,361.781,153.505,375.476" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="153.598,361.781,157.005,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="156.959,361.781,161.162,375.476" size="13.695">f</text>
+<text font="Verdana-Bold" bbox="161.279,361.781,166.230,375.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="166.200,361.781,173.042,375.476" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="173.040,361.781,183.578,375.476" size="13.695">m</text>
+<text font="Verdana-Bold" bbox="183.600,361.781,187.006,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="186.960,361.781,191.502,375.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="191.641,361.781,198.732,375.476" size="13.695">h</text>
+<text font="Verdana-Bold" bbox="198.720,361.781,205.334,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="205.321,361.781,208.727,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="208.681,361.781,215.982,375.476" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="216.120,361.781,221.070,375.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="221.040,361.781,227.654,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="227.641,361.781,234.115,375.476" size="13.695">v</text>
+<text font="Verdana-Bold" bbox="234.240,361.781,237.647,375.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="237.601,361.781,244.443,375.476" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="244.440,361.781,251.532,375.476" size="13.695">u</text>
+<text font="Verdana-Bold" bbox="251.642,361.781,257.548,375.476" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="257.518,361.781,260.924,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="260.878,361.781,267.960,375.476" size="13.695">2</text>
+<text font="Verdana-Bold" bbox="268.079,361.781,275.160,375.476" size="13.695">0</text>
+<text font="Verdana-Bold" bbox="275.158,361.781,282.240,375.476" size="13.695">0</text>
+<text font="Verdana-Bold" bbox="282.239,361.781,289.320,375.476" size="13.695">8</text>
+<text font="Verdana-Bold" bbox="289.317,361.781,294.098,375.476" size="13.695">-</text>
+<text font="Verdana-Bold" bbox="294.118,361.781,301.200,375.476" size="13.695">2</text>
+<text font="Verdana-Bold" bbox="301.318,361.781,308.400,375.476" size="13.695">0</text>
+<text font="Verdana-Bold" bbox="308.518,361.781,315.600,375.476" size="13.695">1</text>
+<text font="Verdana-Bold" bbox="315.598,361.781,322.679,375.476" size="13.695">2</text>
+<text font="Verdana-Bold" bbox="322.677,361.781,326.084,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="326.038,361.781,332.830,375.476" size="13.695">T</text>
+<text font="Verdana-Bold" bbox="332.878,361.781,338.316,375.476" size="13.695">I</text>
+<text font="Verdana-Bold" bbox="338.277,361.781,345.577,375.476" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="345.717,361.781,349.123,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="349.076,361.781,355.869,375.476" size="13.695">T</text>
+<text font="Verdana-Bold" bbox="355.917,361.781,363.008,375.476" size="13.695">h</text>
+<text font="Verdana-Bold" bbox="363.117,361.781,369.770,375.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="369.716,361.781,374.258,375.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="374.277,361.781,377.683,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="377.637,361.781,388.871,375.476" size="13.695">W</text>
+<text font="Verdana-Bold" bbox="389.037,361.781,395.650,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="395.636,361.781,400.586,375.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="400.556,361.781,407.170,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="407.277,361.781,410.683,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="410.637,361.781,417.709,375.476" size="13.695">S</text>
+<text font="Verdana-Bold" bbox="417.717,361.781,421.123,375.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="421.197,361.781,428.159,375.476" size="13.695">g</text>
+<text font="Verdana-Bold" bbox="428.276,361.781,435.368,375.476" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="435.357,361.781,438.763,375.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="438.716,361.781,442.919,375.476" size="13.695">f</text>
+<text font="Verdana-Bold" bbox="443.037,361.781,446.443,375.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="446.396,361.781,452.253,375.476" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="452.276,361.781,458.929,375.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="458.997,361.781,466.088,375.476" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="466.076,361.781,470.618,375.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="470.636,361.781,474.042,375.476" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="473.997,361.781,480.481,375.476" size="13.695">y</text>
+<text font="Verdana-Bold" bbox="480.596,361.781,484.002,375.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="483.957,361.781,492.223,375.476" size="13.695">D</text>
+<text font="Verdana-Bold" bbox="492.236,361.781,498.850,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="498.956,361.781,502.363,375.476" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="502.316,361.781,508.969,375.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="509.036,361.781,515.520,375.476" size="13.695">y</text>
+<text font="Verdana-Bold" bbox="515.516,361.781,522.129,375.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="522.116,361.781,529.078,375.476" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="529.194,361.781,532.600,375.476" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="24" bbox="71.990,325.417,543.485,351.024">
+<textline bbox="71.990,337.538,543.485,351.024">
+<text font="Verdana" bbox="71.990,337.538,79.281,351.024" size="13.486">U</text>
+<text font="Verdana" bbox="79.310,337.538,84.499,351.024" size="13.486">s</text>
+<text font="Verdana" bbox="84.470,337.538,87.199,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="87.350,337.538,93.655,351.024" size="13.486">n</text>
+<text font="Verdana" bbox="93.710,337.538,99.915,351.024" size="13.486">g</text>
+<text font="Verdana" bbox="99.951,337.538,103.457,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="104.632,337.538,108.556,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="108.592,337.538,114.897,351.024" size="13.486">h</text>
+<text font="Verdana" bbox="114.952,337.538,120.889,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="120.832,337.538,124.338,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="125.513,337.538,131.718,351.024" size="13.486">d</text>
+<text font="Verdana" bbox="131.753,337.538,137.689,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="137.633,337.538,141.139,351.024" size="13.486">f</text>
+<text font="Verdana" bbox="141.113,337.538,143.842,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="143.994,337.538,150.299,351.024" size="13.486">n</text>
+<text font="Verdana" bbox="150.234,337.538,152.963,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="153.114,337.538,157.038,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="156.954,337.538,159.683,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="159.834,337.538,165.880,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="165.830,337.538,172.135,351.024" size="13.486">n</text>
+<text font="Verdana" bbox="172.190,337.538,177.379,351.024" size="13.486">s</text>
+<text font="Verdana" bbox="177.350,337.538,180.856,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="181.910,337.538,184.639,351.024" size="13.486">l</text>
+<text font="Verdana" bbox="184.671,337.538,187.400,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="187.550,337.538,192.739,351.024" size="13.486">s</text>
+<text font="Verdana" bbox="192.710,337.538,196.634,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="196.670,337.538,202.606,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="202.551,337.538,208.756,351.024" size="13.486">d</text>
+<text font="Verdana" bbox="208.791,337.538,212.297,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="213.472,337.538,219.458,351.024" size="13.486">a</text>
+<text font="Verdana" bbox="219.472,337.538,225.677,351.024" size="13.486">b</text>
+<text font="Verdana" bbox="225.712,337.538,231.757,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="231.708,337.538,237.604,351.024" size="13.486">v</text>
+<text font="Verdana" bbox="237.708,337.538,243.644,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="243.588,337.538,247.094,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="248.269,337.538,252.193,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="252.229,337.538,258.534,351.024" size="13.486">h</text>
+<text font="Verdana" bbox="258.709,337.538,264.645,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="264.589,337.538,268.094,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="269.270,337.538,272.776,351.024" size="13.486">f</text>
+<text font="Verdana" bbox="272.870,337.538,278.916,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="278.866,337.538,281.595,351.024" size="13.486">l</text>
+<text font="Verdana" bbox="281.626,337.538,284.355,351.024" size="13.486">l</text>
+<text font="Verdana" bbox="284.507,337.538,290.552,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="290.502,337.538,298.650,351.024" size="13.486">w</text>
+<text font="Verdana" bbox="298.662,337.538,301.391,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="301.542,337.538,307.847,351.024" size="13.486">n</text>
+<text font="Verdana" bbox="307.903,337.538,314.108,351.024" size="13.486">g</text>
+<text font="Verdana" bbox="314.022,337.538,317.528,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="318.703,337.538,328.394,351.024" size="13.486">m</text>
+<text font="Verdana" bbox="328.423,337.538,334.409,351.024" size="13.486">a</text>
+<text font="Verdana" bbox="334.423,337.538,337.849,351.024" size="13.486">j</text>
+<text font="Verdana" bbox="337.903,337.538,343.949,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="343.899,337.538,348.152,351.024" size="13.486">r</text>
+<text font="Verdana" bbox="348.102,337.538,351.608,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="352.783,337.538,358.988,351.024" size="13.486">p</text>
+<text font="Verdana" bbox="359.144,337.538,363.397,351.024" size="13.486">r</text>
+<text font="Verdana" bbox="363.347,337.538,369.393,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="369.343,337.538,372.769,351.024" size="13.486">j</text>
+<text font="Verdana" bbox="372.942,337.538,378.879,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="378.823,337.538,384.012,351.024" size="13.486">c</text>
+<text font="Verdana" bbox="383.983,337.538,387.907,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="387.943,337.538,393.132,351.024" size="13.486">s</text>
+<text font="Verdana" bbox="393.223,337.538,396.729,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="397.904,337.538,401.410,351.024" size="13.486">f</text>
+<text font="Verdana" bbox="401.384,337.538,405.637,351.024" size="13.486">r</text>
+<text font="Verdana" bbox="405.704,337.538,411.750,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="411.700,337.538,421.391,351.024" size="13.486">m</text>
+<text font="Verdana" bbox="421.420,337.538,424.926,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="426.101,337.538,430.025,351.024" size="13.486">t</text>
+<text font="Verdana" bbox="430.060,337.538,436.365,351.024" size="13.486">h</text>
+<text font="Verdana" bbox="436.540,337.538,442.476,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="442.420,337.538,445.926,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="447.102,337.538,453.307,351.024" size="13.486">p</text>
+<text font="Verdana" bbox="453.342,337.538,457.594,351.024" size="13.486">r</text>
+<text font="Verdana" bbox="457.661,337.538,463.597,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="463.542,337.538,469.438,351.024" size="13.486">v</text>
+<text font="Verdana" bbox="469.422,337.538,472.151,351.024" size="13.486">i</text>
+<text font="Verdana" bbox="472.301,337.538,478.347,351.024" size="13.486">o</text>
+<text font="Verdana" bbox="478.297,337.538,484.602,351.024" size="13.486">u</text>
+<text font="Verdana" bbox="484.657,337.538,489.846,351.024" size="13.486">s</text>
+<text font="Verdana" bbox="489.817,337.538,493.323,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="494.498,337.538,500.634,351.024" size="13.486">T</text>
+<text font="Verdana" bbox="500.738,337.538,504.931,351.024" size="13.486">I</text>
+<text font="Verdana" bbox="504.938,337.538,510.944,351.024" size="13.486">P</text>
+<text font="Verdana" bbox="510.938,337.538,514.444,351.024" size="13.486"> </text>
+<text font="Verdana" bbox="515.619,337.538,523.767,351.024" size="13.486">w</text>
+<text font="Verdana" bbox="523.899,337.538,529.835,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="529.780,337.538,534.032,351.024" size="13.486">r</text>
+<text font="Verdana" bbox="534.099,337.538,540.035,351.024" size="13.486">e</text>
+<text font="Verdana" bbox="539.980,337.538,543.485,351.024" size="13.486"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="71.990,325.417,184.936,338.903">
+<text font="Verdana" bbox="71.990,325.417,77.179,338.903" size="13.486">s</text>
+<text font="Verdana" bbox="77.150,325.417,79.879,338.903" size="13.486">i</text>
+<text font="Verdana" bbox="80.029,325.417,86.234,338.903" size="13.486">g</text>
+<text font="Verdana" bbox="86.269,325.417,92.573,338.903" size="13.486">n</text>
+<text font="Verdana" bbox="92.509,325.417,95.238,338.903" size="13.486">i</text>
+<text font="Verdana" bbox="95.387,325.417,98.893,338.903" size="13.486">f</text>
+<text font="Verdana" bbox="98.747,325.417,101.476,338.903" size="13.486">i</text>
+<text font="Verdana" bbox="101.625,325.417,106.814,338.903" size="13.486">c</text>
+<text font="Verdana" bbox="106.785,325.417,112.771,338.903" size="13.486">a</text>
+<text font="Verdana" bbox="112.785,325.417,119.090,338.903" size="13.486">n</text>
+<text font="Verdana" bbox="119.145,325.417,123.069,338.903" size="13.486">t</text>
+<text font="Verdana" bbox="122.985,325.417,125.714,338.903" size="13.486">l</text>
+<text font="Verdana" bbox="125.864,325.417,131.760,338.903" size="13.486">y</text>
+<text font="Verdana" bbox="131.744,325.417,135.250,338.903" size="13.486"> </text>
+<text font="Verdana" bbox="135.224,325.417,141.429,338.903" size="13.486">d</text>
+<text font="Verdana" bbox="141.464,325.417,147.400,338.903" size="13.486">e</text>
+<text font="Verdana" bbox="147.344,325.417,150.073,338.903" size="13.486">l</text>
+<text font="Verdana" bbox="150.223,325.417,156.209,338.903" size="13.486">a</text>
+<text font="Verdana" bbox="156.223,325.417,162.119,338.903" size="13.486">y</text>
+<text font="Verdana" bbox="162.103,325.417,168.039,338.903" size="13.486">e</text>
+<text font="Verdana" bbox="167.984,325.417,174.189,338.903" size="13.486">d</text>
+<text font="Verdana" bbox="174.223,325.417,177.849,338.903" size="13.486">.</text>
+<text font="Verdana" bbox="177.823,325.417,181.329,338.903" size="13.486"> </text>
+<text font="Verdana" bbox="181.431,325.417,184.936,338.903" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="25" bbox="71.990,301.294,388.240,314.989">
+<textline bbox="71.990,301.294,388.240,314.989">
+<text font="Verdana-Bold" bbox="71.990,301.294,79.779,314.989" size="13.695">R</text>
+<text font="Verdana-Bold" bbox="79.790,301.294,86.632,314.989" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="86.630,301.294,93.284,314.989" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="93.231,301.294,100.193,314.989" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="100.312,301.294,110.063,314.989" size="13.695">w</text>
+<text font="Verdana-Bold" bbox="110.153,301.294,116.806,314.989" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="116.752,301.294,123.236,314.989" size="13.695">y</text>
+<text font="Verdana-Bold" bbox="123.232,301.294,126.639,314.989" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="126.593,301.294,133.893,314.989" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="134.033,301.294,138.983,314.989" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="138.953,301.294,145.796,314.989" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="145.915,301.294,149.929,314.989" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="149.875,301.294,156.489,314.989" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="156.475,301.294,162.331,314.989" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="162.355,301.294,166.897,314.989" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="166.915,301.294,172.821,314.989" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="172.915,301.294,176.321,314.989" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="176.275,301.294,181.684,314.989" size="13.695">(</text>
+<text font="Verdana-Bold" bbox="181.795,301.294,185.201,314.989" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="185.156,301.294,192.247,314.989" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="192.356,301.294,198.212,314.989" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="198.235,301.294,201.641,314.989" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="201.596,301.294,208.687,314.989" size="13.695">u</text>
+<text font="Verdana-Bold" bbox="208.676,301.294,215.638,314.989" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="215.758,301.294,219.164,314.989" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="219.118,301.294,226.210,314.989" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="226.198,301.294,233.160,314.989" size="13.695">g</text>
+<text font="Verdana-Bold" bbox="233.279,301.294,236.686,314.989" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="236.639,301.294,240.045,314.989" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="240.119,301.294,247.210,314.989" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="247.199,301.294,251.741,314.989" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="251.759,301.294,258.373,314.989" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="258.360,301.294,263.310,314.989" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="263.399,301.294,269.306,314.989" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="269.280,301.294,275.893,314.989" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="275.879,301.294,281.736,314.989" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="281.760,301.294,286.301,314.989" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="286.440,301.294,289.846,314.989" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="289.799,301.294,296.642,314.989" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="296.640,301.294,303.731,314.989" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="303.840,301.294,309.746,314.989" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="309.720,301.294,313.127,314.989" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="313.200,301.294,319.854,314.989" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="319.800,301.294,326.891,314.989" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="326.880,301.294,333.842,314.989" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="333.962,301.294,337.368,314.989" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="337.322,301.294,344.284,314.989" size="13.695">b</text>
+<text font="Verdana-Bold" bbox="344.282,301.294,349.233,314.989" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="349.322,301.294,352.729,314.989" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="352.683,301.294,359.645,314.989" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="359.764,301.294,366.726,314.989" size="13.695">g</text>
+<text font="Verdana-Bold" bbox="366.724,301.294,373.338,314.989" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="373.325,301.294,379.231,314.989" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="379.325,301.294,384.733,314.989" size="13.695">)</text>
+<text font="Verdana-Bold" bbox="384.834,301.294,388.240,314.989" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="26" bbox="90.000,289.155,471.021,301.728">
+<textline bbox="90.000,289.155,471.021,301.728">
+<text font="ETFATV+SymbolMT" bbox="90.000,290.100,94.140,301.125" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,289.155,96.579,301.134" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.000,289.353,115.038,301.728" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="115.080,289.353,121.263,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="121.200,289.353,127.608,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="127.560,289.353,131.664,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="131.640,289.353,137.616,301.728" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="137.640,289.353,140.718,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="140.763,289.353,147.162,301.728" size="12.375">1</text>
+<text font="Verdana-Bold" bbox="147.126,289.353,153.525,301.728" size="12.375">0</text>
+<text font="Verdana-Bold" bbox="153.489,289.353,159.888,301.728" size="12.375">6</text>
+<text font="Verdana-Bold" bbox="159.969,289.353,166.368,301.728" size="12.375">1</text>
+<text font="Verdana-Bold" bbox="166.332,289.353,172.533,301.728" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="172.571,289.353,179.087,301.728" size="12.375">C</text>
+<text font="Verdana-Bold" bbox="179.051,289.353,185.459,301.728" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="185.400,289.353,191.808,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="191.880,289.353,196.353,301.728" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="196.317,289.353,201.609,301.728" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="201.597,289.353,208.005,301.728" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="207.958,289.353,211.036,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="211.081,289.353,217.471,301.728" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="217.441,289.353,221.545,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="221.641,289.353,226.114,301.728" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="226.201,289.353,232.177,301.728" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="232.201,289.353,238.177,301.728" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="238.201,289.353,242.305,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="242.281,289.353,245.359,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="245.440,289.353,251.839,301.728" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="251.757,289.353,254.835,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="254.880,289.353,261.918,301.728" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="261.960,289.353,267.936,301.728" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="267.960,289.353,273.252,301.728" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="273.240,289.353,279.423,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="279.360,289.353,285.768,301.728" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="285.720,289.353,291.057,301.728" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="291.003,289.353,295.107,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="295.083,289.353,299.556,301.728" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="299.524,289.353,305.932,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="305.883,289.353,311.175,301.728" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="311.283,289.353,315.387,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="315.364,289.353,318.442,301.728" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="318.483,289.353,324.666,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="324.603,289.353,331.011,301.728" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="330.963,289.353,334.041,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="334.080,289.353,340.479,301.728" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="340.443,289.353,343.521,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="343.683,289.353,349.830,301.728" size="12.375">E</text>
+<text font="Verdana-Bold" bbox="349.803,289.353,356.211,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="356.163,289.353,362.454,301.728" size="12.375">d</text>
+<text font="Verdana-Bold" bbox="362.523,289.353,368.706,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="368.643,289.353,373.116,301.728" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="373.082,289.353,379.094,301.728" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="379.083,289.353,385.284,301.728" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="385.322,289.353,392.792,301.728" size="12.375">D</text>
+<text font="Verdana-Bold" bbox="392.763,289.353,398.946,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="399.002,289.353,405.410,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="405.363,289.353,411.654,301.728" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="411.600,289.353,414.678,301.728" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="414.720,289.353,420.732,301.728" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="420.840,289.353,426.177,301.728" size="12.375">s</text>
+<text font="Verdana-Bold" bbox="426.123,289.353,429.201,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="429.246,289.353,435.762,301.728" size="12.375">C</text>
+<text font="Verdana-Bold" bbox="435.726,289.353,441.909,301.728" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="441.846,289.353,448.254,301.728" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="448.326,289.353,454.734,301.728" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="454.686,289.353,458.790,301.728" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="458.766,289.353,464.625,301.728" size="12.375">y</text>
+<text font="Verdana-Bold" bbox="464.766,289.353,467.844,301.728" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="467.943,289.353,471.021,301.728" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="27" bbox="108.000,253.359,432.499,290.346">
+<textline bbox="108.000,277.353,360.171,290.346">
+<text font="Verdana" bbox="108.000,277.356,114.237,289.542" size="12.186">K</text>
+<text font="Verdana" bbox="114.237,277.356,118.323,289.542" size="12.186">-</text>
+<text font="Verdana" bbox="118.323,277.356,124.047,289.542" size="12.186">1</text>
+<text font="Verdana" bbox="124.083,277.356,129.807,289.542" size="12.186">0</text>
+<text font="Verdana" bbox="129.843,277.356,133.011,289.542" size="12.186"> </text>
+<text font="Verdana" bbox="132.966,277.356,136.512,289.542" size="12.186">t</text>
+<text font="Verdana" bbox="136.566,277.356,142.029,289.542" size="12.186">o</text>
+<text font="Verdana" bbox="142.086,277.356,145.254,289.542" size="12.186"> </text>
+<text font="Verdana" bbox="145.209,277.356,150.933,289.542" size="12.186">2</text>
+<text font="Verdana" bbox="150.969,277.356,156.693,289.542" size="12.186">8</text>
+<text font="Verdana" bbox="156.600,282.222,158.964,290.346" size="8.124">t</text>
+<text font="Verdana" bbox="159.000,282.222,162.798,290.346" size="8.124">h</text>
+<text font="Verdana" bbox="162.720,277.353,165.888,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="165.843,277.353,171.999,289.539" size="12.186">S</text>
+<text font="Verdana" bbox="171.963,277.353,175.509,289.539" size="12.186">t</text>
+<text font="Verdana" bbox="175.563,277.353,179.406,289.539" size="12.186">r</text>
+<text font="Verdana" bbox="179.403,277.353,184.767,289.539" size="12.186">e</text>
+<text font="Verdana" bbox="184.803,277.353,190.167,289.539" size="12.186">e</text>
+<text font="Verdana" bbox="190.203,277.353,193.749,289.539" size="12.186">t</text>
+<text font="Verdana" bbox="193.803,277.353,197.889,289.539" size="12.186">/</text>
+<text font="Verdana" bbox="197.883,277.353,204.615,289.539" size="12.186">N</text>
+<text font="Verdana" bbox="204.603,277.353,207.771,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="207.726,277.353,213.450,289.539" size="12.186">1</text>
+<text font="Verdana" bbox="213.486,277.353,219.210,289.539" size="12.186">2</text>
+<text font="Verdana" bbox="219.246,277.353,224.970,289.539" size="12.186">0</text>
+<text font="Verdana" bbox="224.886,277.353,230.610,289.539" size="12.186">0</text>
+<text font="Verdana" bbox="230.526,277.353,233.694,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="233.649,277.353,239.904,289.539" size="12.186">R</text>
+<text font="Verdana" bbox="239.889,277.353,245.352,289.539" size="12.186">o</text>
+<text font="Verdana" bbox="245.408,277.353,250.817,289.539" size="12.186">a</text>
+<text font="Verdana" bbox="250.808,277.353,256.415,289.539" size="12.186">d</text>
+<text font="Verdana" bbox="256.415,277.353,259.691,289.539" size="12.186">,</text>
+<text font="Verdana" bbox="259.655,277.353,262.823,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="262.800,277.353,268.524,289.539" size="12.186">2</text>
+<text font="Verdana" bbox="268.560,277.353,274.284,289.539" size="12.186">0</text>
+<text font="Verdana" bbox="274.320,277.353,280.044,289.539" size="12.186">1</text>
+<text font="Verdana" bbox="280.080,277.353,285.804,289.539" size="12.186">1</text>
+<text font="Verdana" bbox="285.804,277.353,289.080,289.539" size="12.186">,</text>
+<text font="Verdana" bbox="289.044,277.353,292.212,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="292.203,277.353,297.927,289.539" size="12.186">$</text>
+<text font="Verdana" bbox="297.963,277.353,303.687,289.539" size="12.186">3</text>
+<text font="Verdana" bbox="303.723,277.353,306.999,289.539" size="12.186">.</text>
+<text font="Verdana" bbox="306.963,277.353,312.687,289.539" size="12.186">3</text>
+<text font="Verdana" bbox="312.723,277.353,318.447,289.539" size="12.186">0</text>
+<text font="Verdana" bbox="318.483,277.353,324.207,289.539" size="12.186">2</text>
+<text font="Verdana" bbox="324.243,277.353,327.411,289.539" size="12.186"> </text>
+<text font="Verdana" bbox="327.366,277.353,336.123,289.539" size="12.186">m</text>
+<text font="Verdana" bbox="336.006,277.353,338.472,289.539" size="12.186">i</text>
+<text font="Verdana" bbox="338.526,277.353,340.992,289.539" size="12.186">l</text>
+<text font="Verdana" bbox="341.046,277.353,343.512,289.539" size="12.186">l</text>
+<text font="Verdana" bbox="343.446,277.353,345.912,289.539" size="12.186">i</text>
+<text font="Verdana" bbox="345.966,277.353,351.429,289.539" size="12.186">o</text>
+<text font="Verdana" bbox="351.366,277.353,357.063,289.539" size="12.186">n</text>
+<text font="Verdana" bbox="357.003,277.353,360.171,289.539" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,265.356,432.499,277.542">
+<text font="Verdana" bbox="108.000,265.356,113.544,277.542" size="12.186">T</text>
+<text font="Verdana" bbox="113.520,265.356,119.217,277.542" size="12.186">h</text>
+<text font="Verdana" bbox="119.160,265.356,121.626,277.542" size="12.186">i</text>
+<text font="Verdana" bbox="121.680,265.356,126.369,277.542" size="12.186">s</text>
+<text font="Verdana" bbox="126.360,265.356,129.528,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="129.483,265.356,135.090,277.542" size="12.186">p</text>
+<text font="Verdana" bbox="135.126,265.356,138.969,277.542" size="12.186">r</text>
+<text font="Verdana" bbox="138.966,265.356,144.429,277.542" size="12.186">o</text>
+<text font="Verdana" bbox="144.486,265.356,147.582,277.542" size="12.186">j</text>
+<text font="Verdana" bbox="147.606,265.356,152.970,277.542" size="12.186">e</text>
+<text font="Verdana" bbox="153.006,265.356,157.695,277.542" size="12.186">c</text>
+<text font="Verdana" bbox="157.686,265.356,161.232,277.542" size="12.186">t</text>
+<text font="Verdana" bbox="161.286,265.356,164.454,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="164.409,265.356,171.771,277.542" size="12.186">w</text>
+<text font="Verdana" bbox="171.729,265.356,177.138,277.542" size="12.186">a</text>
+<text font="Verdana" bbox="177.129,265.356,181.818,277.542" size="12.186">s</text>
+<text font="Verdana" bbox="181.809,265.356,184.977,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="184.932,265.356,190.395,277.542" size="12.186">o</text>
+<text font="Verdana" bbox="190.452,265.356,194.295,277.542" size="12.186">r</text>
+<text font="Verdana" bbox="194.292,265.356,196.758,277.542" size="12.186">i</text>
+<text font="Verdana" bbox="196.812,265.356,202.419,277.542" size="12.186">g</text>
+<text font="Verdana" bbox="202.455,265.356,204.921,277.542" size="12.186">i</text>
+<text font="Verdana" bbox="204.975,265.356,210.672,277.542" size="12.186">n</text>
+<text font="Verdana" bbox="210.615,265.356,216.024,277.542" size="12.186">a</text>
+<text font="Verdana" bbox="216.015,265.356,218.481,277.542" size="12.186">l</text>
+<text font="Verdana" bbox="218.415,265.356,220.881,277.542" size="12.186">l</text>
+<text font="Verdana" bbox="220.935,265.356,226.263,277.542" size="12.186">y</text>
+<text font="Verdana" bbox="226.215,265.356,229.383,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="229.338,265.356,234.945,277.542" size="12.186">p</text>
+<text font="Verdana" bbox="234.981,265.356,238.824,277.542" size="12.186">r</text>
+<text font="Verdana" bbox="238.821,265.356,244.284,277.542" size="12.186">o</text>
+<text font="Verdana" bbox="244.341,265.356,249.948,277.542" size="12.186">g</text>
+<text font="Verdana" bbox="249.984,265.356,253.827,277.542" size="12.186">r</text>
+<text font="Verdana" bbox="253.824,265.356,259.233,277.542" size="12.186">a</text>
+<text font="Verdana" bbox="259.224,265.356,267.981,277.542" size="12.186">m</text>
+<text font="Verdana" bbox="267.984,265.356,276.741,277.542" size="12.186">m</text>
+<text font="Verdana" bbox="276.745,265.356,282.109,277.542" size="12.186">e</text>
+<text font="Verdana" bbox="282.024,265.356,287.631,277.542" size="12.186">d</text>
+<text font="Verdana" bbox="287.667,265.356,290.835,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="290.790,265.356,293.256,277.542" size="12.186">i</text>
+<text font="Verdana" bbox="293.310,265.356,299.007,277.542" size="12.186">n</text>
+<text font="Verdana" bbox="298.949,265.356,302.117,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="302.072,265.356,305.618,277.542" size="12.186">t</text>
+<text font="Verdana" bbox="305.672,265.356,311.369,277.542" size="12.186">h</text>
+<text font="Verdana" bbox="311.313,265.356,316.677,277.542" size="12.186">e</text>
+<text font="Verdana" bbox="316.713,265.356,319.881,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="319.836,265.356,325.560,277.542" size="12.186">2</text>
+<text font="Verdana" bbox="325.596,265.356,331.320,277.542" size="12.186">0</text>
+<text font="Verdana" bbox="331.356,265.356,337.080,277.542" size="12.186">0</text>
+<text font="Verdana" bbox="337.116,265.356,342.840,277.542" size="12.186">8</text>
+<text font="Verdana" bbox="342.840,265.356,346.926,277.542" size="12.186">-</text>
+<text font="Verdana" bbox="346.797,265.356,352.521,277.542" size="12.186">2</text>
+<text font="Verdana" bbox="352.557,265.356,358.281,277.542" size="12.186">0</text>
+<text font="Verdana" bbox="358.317,265.356,364.041,277.542" size="12.186">1</text>
+<text font="Verdana" bbox="364.077,265.356,369.801,277.542" size="12.186">2</text>
+<text font="Verdana" bbox="369.837,265.356,373.005,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="372.960,265.356,378.504,277.542" size="12.186">T</text>
+<text font="Verdana" bbox="378.480,265.356,382.269,277.542" size="12.186">I</text>
+<text font="Verdana" bbox="382.200,265.356,387.627,277.542" size="12.186">P</text>
+<text font="Verdana" bbox="387.600,265.356,390.768,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="390.723,265.356,393.891,277.542" size="12.186">f</text>
+<text font="Verdana" bbox="393.844,265.356,399.307,277.542" size="12.186">o</text>
+<text font="Verdana" bbox="399.363,265.356,403.206,277.542" size="12.186">r</text>
+<text font="Verdana" bbox="403.204,265.356,406.372,277.542" size="12.186"> </text>
+<text font="Verdana" bbox="406.327,265.356,412.051,277.542" size="12.186">2</text>
+<text font="Verdana" bbox="412.087,265.356,417.811,277.542" size="12.186">0</text>
+<text font="Verdana" bbox="417.847,265.356,423.571,277.542" size="12.186">0</text>
+<text font="Verdana" bbox="423.607,265.356,429.331,277.542" size="12.186">8</text>
+<text font="Verdana" bbox="429.331,265.356,432.499,277.542" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,253.359,111.168,265.545">
+<text font="Verdana" bbox="108.000,253.359,111.168,265.545" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="28" bbox="90.000,241.164,517.763,253.737">
+<textline bbox="90.000,241.164,517.763,253.737">
+<text font="ETFATV+SymbolMT" bbox="90.000,242.109,94.140,253.134" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,241.164,96.579,253.143" size="11.979"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="108.000,241.362,114.390,253.737" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="114.360,241.362,120.543,253.737" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="120.480,241.362,126.888,253.737" size="12.375">u</text>
+<text font="Verdana-Bold" bbox="126.840,241.362,130.944,253.737" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="131.040,241.362,137.448,253.737" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="137.399,241.362,140.477,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="148.442,241.362,154.175,253.737" size="12.375">L</text>
+<text font="Verdana-Bold" bbox="154.202,241.362,160.214,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="160.203,241.362,169.014,253.737" size="12.375">w</text>
+<text font="Verdana-Bold" bbox="168.960,241.362,173.433,253.737" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="173.399,241.362,179.375,253.737" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="179.400,241.362,185.808,253.737" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="185.760,241.362,191.052,253.737" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="191.039,241.362,197.015,253.737" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="197.040,241.362,200.118,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="208.083,241.362,214.221,253.737" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="214.203,241.362,218.676,253.737" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="218.643,241.362,224.655,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="224.643,241.362,228.441,253.737" size="12.375">f</text>
+<text font="Verdana-Bold" bbox="228.603,241.362,232.401,253.737" size="12.375">f</text>
+<text font="Verdana-Bold" bbox="232.443,241.362,235.521,253.737" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="235.563,241.362,240.855,253.737" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="240.843,241.362,243.921,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="251.886,241.362,262.038,253.737" size="12.375">W</text>
+<text font="Verdana-Bold" bbox="262.085,241.362,268.097,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="268.086,241.362,273.945,253.737" size="12.375">y</text>
+<text font="Verdana-Bold" bbox="273.846,241.362,280.047,253.737" size="12.375">/</text>
+<text font="Verdana-Bold" bbox="280.085,241.362,287.024,253.737" size="12.375">K</text>
+<text font="Verdana-Bold" bbox="287.037,241.362,291.357,253.737" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="291.357,241.362,297.756,253.737" size="12.375">1</text>
+<text font="Verdana-Bold" bbox="297.720,241.362,304.119,253.737" size="12.375">0</text>
+<text font="Verdana-Bold" bbox="304.083,241.362,307.161,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="315.117,241.362,321.516,253.737" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="321.480,241.362,324.558,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="332.523,241.362,339.561,253.737" size="12.375">R</text>
+<text font="Verdana-Bold" bbox="339.483,241.362,342.561,253.737" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="342.603,241.362,348.894,253.737" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="348.840,241.362,355.248,253.737" size="12.375">h</text>
+<text font="Verdana-Bold" bbox="355.200,241.362,359.304,253.737" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="359.280,241.362,363.600,253.737" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="363.600,241.362,369.783,253.737" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="369.720,241.362,373.518,253.737" size="12.375">f</text>
+<text font="Verdana-Bold" bbox="373.563,241.362,377.883,253.737" size="12.375">-</text>
+<text font="Verdana-Bold" bbox="377.883,241.362,388.035,253.737" size="12.375">W</text>
+<text font="Verdana-Bold" bbox="388.083,241.362,394.095,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="394.083,241.362,399.942,253.737" size="12.375">y</text>
+<text font="Verdana-Bold" bbox="399.963,241.362,403.041,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="411.006,241.362,417.018,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="417.005,241.362,423.413,253.737" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="423.365,241.362,429.656,253.737" size="12.375">d</text>
+<text font="Verdana-Bold" bbox="429.602,241.362,432.680,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="440.645,241.362,447.035,253.737" size="12.375">S</text>
+<text font="Verdana-Bold" bbox="447.006,241.362,453.297,253.737" size="12.375">p</text>
+<text font="Verdana-Bold" bbox="453.243,241.362,459.219,253.737" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="459.242,241.362,464.534,253.737" size="12.375">c</text>
+<text font="Verdana-Bold" bbox="464.522,241.362,467.600,253.737" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="467.762,241.362,473.774,253.737" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="473.763,241.362,476.841,253.737" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="476.882,241.362,479.960,253.737" size="12.375"> </text>
+<text> </text>
+<text font="Verdana-Bold" bbox="487.925,241.362,498.077,253.737" size="12.375">W</text>
+<text font="Verdana-Bold" bbox="498.125,241.362,504.308,253.737" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="504.245,241.362,508.718,253.737" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="508.685,241.362,514.724,253.737" size="12.375">k</text>
+<text font="Verdana-Bold" bbox="514.685,241.362,517.763,253.737" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="29" bbox="525.728,241.362,543.085,253.737">
+<textline bbox="525.728,241.362,543.085,253.737">
+<text font="Verdana-Bold" bbox="525.728,241.362,529.526,253.737" size="12.375">f</text>
+<text font="Verdana-Bold" bbox="529.567,241.362,535.750,253.737" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="535.687,241.362,540.160,253.737" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="540.007,241.362,543.085,253.737" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="30" bbox="107.991,181.182,543.179,241.740">
+<textline bbox="108.000,229.365,340.290,241.740">
+<text font="Verdana-Bold" bbox="108.000,229.365,114.147,241.740" size="12.375">E</text>
+<text font="Verdana-Bold" bbox="114.120,229.365,120.528,241.740" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="120.480,229.365,126.330,241.740" size="12.375">v</text>
+<text font="Verdana-Bold" bbox="126.360,229.365,129.438,241.740" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="129.480,229.365,133.953,241.740" size="12.375">r</text>
+<text font="Verdana-Bold" bbox="133.920,229.365,140.103,241.740" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="140.040,229.365,146.448,241.740" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="146.520,229.365,156.042,241.740" size="12.375">m</text>
+<text font="Verdana-Bold" bbox="156.000,229.365,161.976,241.740" size="12.375">e</text>
+<text font="Verdana-Bold" bbox="162.000,229.365,168.408,241.740" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="168.359,229.365,172.463,241.740" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="172.440,229.365,178.452,241.740" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="178.439,229.365,181.517,241.740" size="12.375">l</text>
+<text font="Verdana-Bold" bbox="181.560,229.365,184.638,241.740" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="184.683,229.365,193.215,241.740" size="12.375">M</text>
+<text font="Verdana-Bold" bbox="193.203,229.365,196.281,241.740" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="196.323,229.365,200.427,241.740" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="200.403,229.365,203.481,241.740" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="203.523,229.365,209.814,241.740" size="12.375">g</text>
+<text font="Verdana-Bold" bbox="209.760,229.365,215.772,241.740" size="12.375">a</text>
+<text font="Verdana-Bold" bbox="215.761,229.365,219.865,241.740" size="12.375">t</text>
+<text font="Verdana-Bold" bbox="219.840,229.365,222.918,241.740" size="12.375">i</text>
+<text font="Verdana-Bold" bbox="222.961,229.365,229.144,241.740" size="12.375">o</text>
+<text font="Verdana-Bold" bbox="229.200,229.365,235.608,241.740" size="12.375">n</text>
+<text font="Verdana-Bold" bbox="235.561,229.365,238.639,241.740" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="238.738,229.365,245.137,241.740" size="12.375">&#8211;</text>
+<text font="Verdana-Bold" bbox="245.043,229.365,248.121,241.740" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="248.166,229.365,255.105,241.740" size="12.375">K</text>
+<text font="Verdana-Bold" bbox="255.127,229.365,262.597,241.740" size="12.375">D</text>
+<text font="Verdana-Bold" bbox="262.570,229.365,270.220,241.740" size="12.375">O</text>
+<text font="Verdana-Bold" bbox="270.250,229.365,276.388,241.740" size="12.375">T</text>
+<text font="Verdana-Bold" bbox="276.363,229.365,279.441,241.740" size="12.375"> </text>
+<text font="Verdana-Bold" bbox="279.486,229.365,284.373,241.740" size="12.375">(</text>
+<text font="Verdana" bbox="284.409,229.365,290.646,241.551" size="12.186">K</text>
+<text font="Verdana" bbox="290.646,229.365,294.732,241.551" size="12.186">-</text>
+<text font="Verdana" bbox="294.732,229.365,300.456,241.551" size="12.186">8</text>
+<text font="Verdana" bbox="300.492,229.365,306.216,241.551" size="12.186">3</text>
+<text font="Verdana" bbox="306.132,229.365,311.856,241.551" size="12.186">9</text>
+<text font="Verdana" bbox="311.892,229.365,317.616,241.551" size="12.186">2</text>
+<text font="Verdana" bbox="317.616,229.365,321.702,241.551" size="12.186">-</text>
+<text font="Verdana" bbox="321.732,229.365,327.456,241.551" size="12.186">0</text>
+<text font="Verdana" bbox="327.492,229.365,333.216,241.551" size="12.186">1</text>
+<text font="Verdana" bbox="333.252,229.365,337.338,241.551" size="12.186">)</text>
+<text font="Verdana-Bold" bbox="337.212,229.365,340.290,241.740" size="12.375"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,217.353,401.076,229.539">
+<text font="Verdana" bbox="108.000,217.353,114.588,229.539" size="12.186">U</text>
+<text font="Verdana" bbox="114.597,217.353,120.753,229.539" size="12.186">S</text>
+<text font="Verdana" bbox="120.717,217.353,124.803,229.539" size="12.186">-</text>
+<text font="Verdana" bbox="124.794,217.353,130.518,229.539" size="12.186">5</text>
+<text font="Verdana" bbox="130.554,217.353,136.278,229.539" size="12.186">9</text>
+<text font="Verdana" bbox="136.314,217.353,139.482,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="139.437,217.353,142.983,229.539" size="12.186">t</text>
+<text font="Verdana" bbox="143.037,217.353,148.500,229.539" size="12.186">o</text>
+<text font="Verdana" bbox="148.557,217.353,151.725,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="151.680,217.353,157.044,229.539" size="12.186">e</text>
+<text font="Verdana" bbox="157.080,217.353,162.408,229.539" size="12.186">x</text>
+<text font="Verdana" bbox="162.359,217.353,164.825,229.539" size="12.186">i</text>
+<text font="Verdana" bbox="164.880,217.353,169.569,229.539" size="12.186">s</text>
+<text font="Verdana" bbox="169.560,217.353,173.106,229.539" size="12.186">t</text>
+<text font="Verdana" bbox="173.039,217.353,175.505,229.539" size="12.186">i</text>
+<text font="Verdana" bbox="175.559,217.353,181.256,229.539" size="12.186">n</text>
+<text font="Verdana" bbox="181.200,217.353,186.807,229.539" size="12.186">g</text>
+<text font="Verdana" bbox="186.843,217.353,190.011,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="189.966,217.353,196.203,229.539" size="12.186">K</text>
+<text font="Verdana" bbox="196.191,217.353,200.277,229.539" size="12.186">-</text>
+<text font="Verdana" bbox="200.268,217.353,205.992,229.539" size="12.186">1</text>
+<text font="Verdana" bbox="206.028,217.353,211.752,229.539" size="12.186">0</text>
+<text font="Verdana" bbox="211.788,217.353,214.956,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="214.911,217.353,220.275,229.539" size="12.186">e</text>
+<text font="Verdana" bbox="220.311,217.353,225.720,229.539" size="12.186">a</text>
+<text font="Verdana" bbox="225.711,217.353,230.400,229.539" size="12.186">s</text>
+<text font="Verdana" bbox="230.271,217.353,233.817,229.539" size="12.186">t</text>
+<text font="Verdana" bbox="233.871,217.353,237.039,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="236.994,217.353,242.457,229.539" size="12.186">o</text>
+<text font="Verdana" bbox="242.515,217.353,245.683,229.539" size="12.186">f</text>
+<text font="Verdana" bbox="245.634,217.353,248.802,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="248.757,217.353,253.770,229.539" size="12.186">L</text>
+<text font="Verdana" bbox="253.797,217.353,259.206,229.539" size="12.186">a</text>
+<text font="Verdana" bbox="259.197,217.353,266.559,229.539" size="12.186">w</text>
+<text font="Verdana" bbox="266.517,217.353,270.360,229.539" size="12.186">r</text>
+<text font="Verdana" bbox="270.357,217.353,275.721,229.539" size="12.186">e</text>
+<text font="Verdana" bbox="275.757,217.353,281.454,229.539" size="12.186">n</text>
+<text font="Verdana" bbox="281.398,217.353,286.087,229.539" size="12.186">c</text>
+<text font="Verdana" bbox="286.065,217.353,291.429,229.539" size="12.186">e</text>
+<text font="Verdana" bbox="291.465,217.353,294.741,229.539" size="12.186">,</text>
+<text font="Verdana" bbox="294.705,217.353,297.873,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="297.828,217.353,303.552,229.539" size="12.186">2</text>
+<text font="Verdana" bbox="303.588,217.353,309.312,229.539" size="12.186">0</text>
+<text font="Verdana" bbox="309.348,217.353,315.072,229.539" size="12.186">1</text>
+<text font="Verdana" bbox="315.108,217.353,320.832,229.539" size="12.186">1</text>
+<text font="Verdana" bbox="320.832,217.353,324.108,229.539" size="12.186">,</text>
+<text font="Verdana" bbox="324.072,217.353,327.240,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="327.231,217.353,332.955,229.539" size="12.186">$</text>
+<text font="Verdana" bbox="332.991,217.353,338.715,229.539" size="12.186">1</text>
+<text font="Verdana" bbox="338.751,217.353,344.475,229.539" size="12.186">8</text>
+<text font="Verdana" bbox="344.511,217.353,347.787,229.539" size="12.186">.</text>
+<text font="Verdana" bbox="347.751,217.353,353.475,229.539" size="12.186">9</text>
+<text font="Verdana" bbox="353.511,217.353,359.235,229.539" size="12.186">5</text>
+<text font="Verdana" bbox="359.271,217.353,364.995,229.539" size="12.186">4</text>
+<text font="Verdana" bbox="365.031,217.353,368.199,229.539" size="12.186"> </text>
+<text font="Verdana" bbox="368.154,217.353,376.911,229.539" size="12.186">m</text>
+<text font="Verdana" bbox="376.914,217.353,379.380,229.539" size="12.186">i</text>
+<text font="Verdana" bbox="379.434,217.353,381.900,229.539" size="12.186">l</text>
+<text font="Verdana" bbox="381.834,217.353,384.300,229.539" size="12.186">l</text>
+<text font="Verdana" bbox="384.354,217.353,386.820,229.539" size="12.186">i</text>
+<text font="Verdana" bbox="386.754,217.353,392.217,229.539" size="12.186">o</text>
+<text font="Verdana" bbox="392.274,217.353,397.971,229.539" size="12.186">n</text>
+<text font="Verdana" bbox="397.908,217.353,401.076,229.539" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="107.991,205.356,543.179,217.542">
+<text font="Verdana" bbox="107.991,205.356,113.535,217.542" size="12.186">T</text>
+<text font="Verdana" bbox="113.511,205.356,119.208,217.542" size="12.186">h</text>
+<text font="Verdana" bbox="119.151,205.356,121.617,217.542" size="12.186">i</text>
+<text font="Verdana" bbox="121.671,205.356,126.360,217.542" size="12.186">s</text>
+<text font="Verdana" bbox="126.351,205.356,129.519,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="131.994,205.356,137.601,217.542" size="12.186">p</text>
+<text font="Verdana" bbox="137.634,205.356,141.477,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="141.474,205.356,146.937,217.542" size="12.186">o</text>
+<text font="Verdana" bbox="146.991,205.356,150.087,217.542" size="12.186">j</text>
+<text font="Verdana" bbox="150.110,205.356,155.474,217.542" size="12.186">e</text>
+<text font="Verdana" bbox="155.510,205.356,160.199,217.542" size="12.186">c</text>
+<text font="Verdana" bbox="160.190,205.356,163.736,217.542" size="12.186">t</text>
+<text font="Verdana" bbox="163.670,205.356,166.838,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="169.313,205.356,176.675,217.542" size="12.186">w</text>
+<text font="Verdana" bbox="176.633,205.356,182.042,217.542" size="12.186">a</text>
+<text font="Verdana" bbox="182.033,205.356,186.722,217.542" size="12.186">s</text>
+<text font="Verdana" bbox="186.713,205.356,189.881,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="192.356,205.356,197.819,217.542" size="12.186">o</text>
+<text font="Verdana" bbox="197.873,205.356,201.716,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="201.713,205.356,204.179,217.542" size="12.186">i</text>
+<text font="Verdana" bbox="204.233,205.356,209.840,217.542" size="12.186">g</text>
+<text font="Verdana" bbox="209.754,205.356,212.220,217.542" size="12.186">i</text>
+<text font="Verdana" bbox="212.274,205.356,217.971,217.542" size="12.186">n</text>
+<text font="Verdana" bbox="217.913,205.356,223.322,217.542" size="12.186">a</text>
+<text font="Verdana" bbox="223.313,205.356,225.779,217.542" size="12.186">l</text>
+<text font="Verdana" bbox="225.833,205.356,228.299,217.542" size="12.186">l</text>
+<text font="Verdana" bbox="228.234,205.356,233.562,217.542" size="12.186">y</text>
+<text font="Verdana" bbox="233.514,205.356,236.682,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="239.157,205.356,244.764,217.542" size="12.186">p</text>
+<text font="Verdana" bbox="244.797,205.356,248.640,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="248.638,205.356,254.101,217.542" size="12.186">o</text>
+<text font="Verdana" bbox="254.155,205.356,259.762,217.542" size="12.186">g</text>
+<text font="Verdana" bbox="259.795,205.356,263.638,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="263.635,205.356,269.044,217.542" size="12.186">a</text>
+<text font="Verdana" bbox="269.035,205.356,277.792,217.542" size="12.186">m</text>
+<text font="Verdana" bbox="277.795,205.356,286.552,217.542" size="12.186">m</text>
+<text font="Verdana" bbox="286.555,205.356,291.919,217.542" size="12.186">e</text>
+<text font="Verdana" bbox="291.955,205.356,297.562,217.542" size="12.186">d</text>
+<text font="Verdana" bbox="297.475,205.356,300.643,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="303.118,205.356,305.584,217.542" size="12.186">i</text>
+<text font="Verdana" bbox="305.638,205.356,311.335,217.542" size="12.186">n</text>
+<text font="Verdana" bbox="311.278,205.356,314.446,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="316.921,205.356,320.467,217.542" size="12.186">t</text>
+<text font="Verdana" bbox="320.521,205.356,326.218,217.542" size="12.186">h</text>
+<text font="Verdana" bbox="326.161,205.356,331.525,217.542" size="12.186">e</text>
+<text font="Verdana" bbox="331.561,205.356,334.729,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="337.081,205.356,342.805,217.542" size="12.186">2</text>
+<text font="Verdana" bbox="342.841,205.356,348.565,217.542" size="12.186">0</text>
+<text font="Verdana" bbox="348.481,205.356,354.205,217.542" size="12.186">0</text>
+<text font="Verdana" bbox="354.241,205.356,359.965,217.542" size="12.186">8</text>
+<text font="Verdana" bbox="359.991,205.356,364.077,217.542" size="12.186">-</text>
+<text font="Verdana" bbox="364.068,205.356,369.792,217.542" size="12.186">2</text>
+<text font="Verdana" bbox="369.828,205.356,375.552,217.542" size="12.186">0</text>
+<text font="Verdana" bbox="375.468,205.356,381.192,217.542" size="12.186">1</text>
+<text font="Verdana" bbox="381.228,205.356,386.952,217.542" size="12.186">2</text>
+<text font="Verdana" bbox="386.988,205.356,390.156,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="392.631,205.356,398.175,217.542" size="12.186">T</text>
+<text font="Verdana" bbox="398.152,205.356,401.941,217.542" size="12.186">I</text>
+<text font="Verdana" bbox="401.872,205.356,407.299,217.542" size="12.186">P</text>
+<text font="Verdana" bbox="407.272,205.356,410.440,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="412.915,205.356,416.083,217.542" size="12.186">f</text>
+<text font="Verdana" bbox="416.035,205.356,421.498,217.542" size="12.186">o</text>
+<text font="Verdana" bbox="421.555,205.356,425.398,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="425.395,205.356,428.563,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="431.038,205.356,436.762,217.542" size="12.186">2</text>
+<text font="Verdana" bbox="436.798,205.356,442.522,217.542" size="12.186">0</text>
+<text font="Verdana" bbox="442.558,205.356,448.282,217.542" size="12.186">0</text>
+<text font="Verdana" bbox="448.198,205.356,453.922,217.542" size="12.186">8</text>
+<text font="Verdana" bbox="453.958,205.356,457.126,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="459.601,205.356,465.010,217.542" size="12.186">a</text>
+<text font="Verdana" bbox="465.001,205.356,468.547,217.542" size="12.186">t</text>
+<text font="Verdana" bbox="468.481,205.356,471.649,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="474.124,205.356,479.533,217.542" size="12.186">a</text>
+<text font="Verdana" bbox="479.524,205.356,482.692,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="485.167,205.356,493.924,217.542" size="12.186">m</text>
+<text font="Verdana" bbox="493.927,205.356,499.624,217.542" size="12.186">u</text>
+<text font="Verdana" bbox="499.567,205.356,504.256,217.542" size="12.186">c</text>
+<text font="Verdana" bbox="504.247,205.356,509.944,217.542" size="12.186">h</text>
+<text font="Verdana" bbox="509.888,205.356,513.056,217.542" size="12.186"> </text>
+<text> </text>
+<text font="Verdana" bbox="515.531,205.356,517.997,217.542" size="12.186">l</text>
+<text font="Verdana" bbox="518.051,205.356,523.514,217.542" size="12.186">o</text>
+<text font="Verdana" bbox="523.570,205.356,530.932,217.542" size="12.186">w</text>
+<text font="Verdana" bbox="530.890,205.356,536.254,217.542" size="12.186">e</text>
+<text font="Verdana" bbox="536.290,205.356,540.133,217.542" size="12.186">r</text>
+<text font="Verdana" bbox="540.011,205.356,543.179,217.542" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="107.991,193.359,228.762,205.545">
+<text font="Verdana" bbox="107.991,193.359,113.400,205.545" size="12.186">a</text>
+<text font="Verdana" bbox="113.391,193.359,122.148,205.545" size="12.186">m</text>
+<text font="Verdana" bbox="122.151,193.359,127.614,205.545" size="12.186">o</text>
+<text font="Verdana" bbox="127.668,193.359,133.365,205.545" size="12.186">u</text>
+<text font="Verdana" bbox="133.307,193.359,139.004,205.545" size="12.186">n</text>
+<text font="Verdana" bbox="138.947,193.359,142.493,205.545" size="12.186">t</text>
+<text font="Verdana" bbox="142.547,193.359,145.715,205.545" size="12.186"> </text>
+<text font="Verdana" bbox="145.670,193.359,151.133,205.545" size="12.186">o</text>
+<text font="Verdana" bbox="151.187,193.359,154.355,205.545" size="12.186">f</text>
+<text font="Verdana" bbox="154.308,193.359,157.476,205.545" size="12.186"> </text>
+<text font="Verdana" bbox="157.431,193.359,163.155,205.545" size="12.186">$</text>
+<text font="Verdana" bbox="163.191,193.359,168.915,205.545" size="12.186">1</text>
+<text font="Verdana" bbox="168.951,193.359,172.227,205.545" size="12.186">.</text>
+<text font="Verdana" bbox="172.191,193.359,177.915,205.545" size="12.186">4</text>
+<text font="Verdana" bbox="177.951,193.359,183.675,205.545" size="12.186">8</text>
+<text font="Verdana" bbox="183.711,193.359,189.435,205.545" size="12.186">5</text>
+<text font="Verdana" bbox="189.471,193.359,192.639,205.545" size="12.186"> </text>
+<text font="Verdana" bbox="192.594,193.359,201.351,205.545" size="12.186">m</text>
+<text font="Verdana" bbox="201.353,193.359,203.819,205.545" size="12.186">i</text>
+<text font="Verdana" bbox="203.873,193.359,206.339,205.545" size="12.186">l</text>
+<text font="Verdana" bbox="206.274,193.359,208.740,205.545" size="12.186">l</text>
+<text font="Verdana" bbox="208.794,193.359,211.260,205.545" size="12.186">i</text>
+<text font="Verdana" bbox="211.314,193.359,216.777,205.545" size="12.186">o</text>
+<text font="Verdana" bbox="216.831,193.359,222.528,205.545" size="12.186">n</text>
+<text font="Verdana" bbox="222.471,193.359,225.747,205.545" size="12.186">.</text>
+<text font="Verdana" bbox="225.594,193.359,228.762,205.545" size="12.186"> </text>
+<text>
+</text>
+</textline>
+<textline bbox="108.000,181.182,111.506,194.668">
+<text font="Verdana" bbox="108.000,181.182,111.506,194.668" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="31" bbox="72.005,168.941,292.619,182.636">
+<textline bbox="72.005,168.941,292.619,182.636">
+<text font="Verdana-Bold" bbox="72.005,168.941,78.797,182.636" size="13.695">T</text>
+<text font="Verdana-Bold" bbox="78.844,168.941,83.794,182.636" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="83.764,168.941,90.418,182.636" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="90.365,168.941,97.456,182.636" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="97.565,168.941,103.471,182.636" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="103.444,168.941,106.851,182.636" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="106.805,168.941,111.347,182.636" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="111.484,168.941,114.890,182.636" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="114.845,168.941,121.319,182.636" size="13.695">F</text>
+<text font="Verdana-Bold" bbox="121.444,168.941,128.097,182.636" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="128.045,168.941,133.901,182.636" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="133.925,168.941,137.331,182.636" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="137.404,168.941,140.810,182.636" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="140.764,168.941,144.171,182.636" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="144.124,168.941,148.666,182.636" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="148.685,168.941,152.091,182.636" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="152.165,168.941,158.778,182.636" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="158.764,168.941,164.670,182.636" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="164.764,168.941,168.170,182.636" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="168.125,168.941,174.778,182.636" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="174.845,168.941,181.936,182.636" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="181.924,168.941,188.886,182.636" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="189.004,168.941,192.410,182.636" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="192.484,168.941,199.555,182.636" size="13.695">S</text>
+<text font="Verdana-Bold" bbox="199.564,168.941,206.178,182.636" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="206.164,168.941,211.114,182.636" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="211.084,168.941,217.558,182.636" size="13.695">v</text>
+<text font="Verdana-Bold" bbox="217.685,168.941,221.091,182.636" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="221.044,168.941,226.900,182.636" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="226.924,168.941,233.538,182.636" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="233.524,168.941,239.430,182.636" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="239.524,168.941,242.930,182.636" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="242.884,168.941,250.185,182.636" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="250.204,168.941,255.154,182.636" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="255.244,168.941,262.086,182.636" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="262.084,168.941,266.098,182.636" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="266.164,168.941,272.777,182.636" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="272.768,168.941,278.625,182.636" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="278.645,168.941,283.186,182.636" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="283.206,168.941,289.113,182.636" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="289.212,168.941,292.619,182.636" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="32" bbox="90.000,157.875,134.361,170.448">
+<textline bbox="90.000,157.875,134.361,170.448">
+<text font="ETFATV+SymbolMT" bbox="90.000,158.820,94.140,169.845" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,157.875,96.579,169.854" size="11.979"> </text>
+<text> </text>
+<text font="Verdana" bbox="108.000,158.073,114.732,170.259" size="12.186">N</text>
+<text font="Verdana" bbox="114.720,158.073,120.183,170.259" size="12.186">o</text>
+<text font="Verdana" bbox="120.240,158.073,125.937,170.259" size="12.186">n</text>
+<text font="Verdana" bbox="125.883,158.073,131.247,170.259" size="12.186">e</text>
+<text font="Verdana-Bold" bbox="131.283,158.073,134.361,170.448" size="12.375"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="33" bbox="108.000,145.902,111.406,159.597">
+<textline bbox="108.000,145.902,111.406,159.597">
+<text font="Verdana-Bold" bbox="108.000,145.902,111.406,159.597" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="34" bbox="90.000,121.095,135.166,136.043">
+<textline bbox="90.000,121.095,135.166,136.043">
+<text font="ETFATV+SymbolMT" bbox="90.000,122.460,94.140,133.485" size="11.025">&#8226;</text>
+<text font="ArialMT" bbox="94.077,121.515,96.579,133.494" size="11.979"> </text>
+<text> </text>
+<text font="Verdana" bbox="108.000,121.713,114.732,133.899" size="12.186">N</text>
+<text font="Verdana" bbox="114.720,121.713,120.183,133.899" size="12.186">o</text>
+<text font="Verdana" bbox="120.240,121.713,125.937,133.899" size="12.186">n</text>
+<text font="Verdana" bbox="125.883,121.713,131.247,133.899" size="12.186">e</text>
+<text font="Verdana" bbox="131.280,121.095,135.166,136.043" size="14.948"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="35" bbox="72.005,133.781,313.614,147.476">
+<textline bbox="72.005,133.781,313.614,147.476">
+<text font="Verdana-Bold" bbox="72.005,133.781,79.594,147.476" size="13.695">B</text>
+<text font="Verdana-Bold" bbox="79.564,133.781,82.971,147.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="82.921,133.781,89.604,147.476" size="13.695">k</text>
+<text font="Verdana-Bold" bbox="89.641,133.781,96.254,147.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="96.361,133.781,106.112,147.476" size="13.695">w</text>
+<text font="Verdana-Bold" bbox="106.201,133.781,112.855,147.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="112.805,133.781,119.289,147.476" size="13.695">y</text>
+<text font="Verdana-Bold" bbox="119.285,133.781,122.691,147.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="122.765,133.781,129.418,147.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="129.368,133.781,136.460,147.476" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="136.568,133.781,143.530,147.476" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="143.528,133.781,146.935,147.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="146.888,133.781,154.189,147.476" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="154.208,133.781,160.822,147.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="160.928,133.781,167.890,147.476" size="13.695">d</text>
+<text font="Verdana-Bold" bbox="167.888,133.781,174.502,147.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="174.608,133.781,180.515,147.476" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="180.488,133.781,185.030,147.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="185.049,133.781,189.999,147.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="189.969,133.781,193.375,147.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="193.448,133.781,200.101,147.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="200.051,133.781,207.143,147.476" size="13.695">n</text>
+<text font="Verdana-Bold" bbox="207.251,133.781,210.658,147.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="210.612,133.781,217.086,147.476" size="13.695">F</text>
+<text font="Verdana-Bold" bbox="217.092,133.781,223.745,147.476" size="13.695">a</text>
+<text font="Verdana-Bold" bbox="223.695,133.781,229.552,147.476" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="229.695,133.781,233.102,147.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="233.052,133.781,236.458,147.476" size="13.695">l</text>
+<text font="Verdana-Bold" bbox="236.532,133.781,239.938,147.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="239.888,133.781,244.430,147.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="244.449,133.781,247.855,147.476" size="13.695">i</text>
+<text font="Verdana-Bold" bbox="247.929,133.781,254.542,147.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="254.529,133.781,260.435,147.476" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="260.529,133.781,263.936,147.476" size="13.695"> </text>
+<text font="Verdana-Bold" bbox="263.889,133.781,271.190,147.476" size="13.695">P</text>
+<text font="Verdana-Bold" bbox="271.209,133.781,276.159,147.476" size="13.695">r</text>
+<text font="Verdana-Bold" bbox="276.129,133.781,282.971,147.476" size="13.695">o</text>
+<text font="Verdana-Bold" bbox="283.089,133.781,287.103,147.476" size="13.695">j</text>
+<text font="Verdana-Bold" bbox="287.053,133.781,293.666,147.476" size="13.695">e</text>
+<text font="Verdana-Bold" bbox="293.653,133.781,299.510,147.476" size="13.695">c</text>
+<text font="Verdana-Bold" bbox="299.533,133.781,304.075,147.476" size="13.695">t</text>
+<text font="Verdana-Bold" bbox="304.213,133.781,310.119,147.476" size="13.695">s</text>
+<text font="Verdana-Bold" bbox="310.208,133.781,313.614,147.476" size="13.695"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="36" bbox="275.280,121.713,278.448,133.899">
+<textline bbox="275.280,121.713,278.448,133.899">
+<text font="Verdana" bbox="275.280,121.713,278.448,133.899" size="12.186"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="37" bbox="71.997,35.021,75.503,48.507">
+<textline bbox="71.997,35.021,75.503,48.507">
+<text font="Verdana" bbox="71.997,35.021,75.503,48.507" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<textbox id="38" bbox="467.160,47.262,543.384,60.957">
+<textline bbox="467.160,47.262,543.384,60.957">
+<text font="Verdana" bbox="467.160,47.262,473.166,60.748" size="13.486">P</text>
+<text font="Verdana" bbox="473.160,47.262,479.146,60.748" size="13.486">a</text>
+<text font="Verdana" bbox="479.160,47.262,485.365,60.748" size="13.486">g</text>
+<text font="Verdana" bbox="485.400,47.262,491.336,60.748" size="13.486">e</text>
+<text font="Verdana" bbox="491.280,47.262,494.786,60.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="494.759,47.262,501.841,60.957" size="13.695">5</text>
+<text font="Verdana-Bold" bbox="501.960,47.262,509.042,60.957" size="13.695">4</text>
+<text font="Verdana" bbox="509.042,47.262,512.548,60.748" size="13.486"> </text>
+<text font="Verdana" bbox="512.637,47.262,518.683,60.748" size="13.486">o</text>
+<text font="Verdana" bbox="518.637,47.262,522.143,60.748" size="13.486">f</text>
+<text font="Verdana" bbox="522.117,47.262,525.623,60.748" size="13.486"> </text>
+<text font="Verdana-Bold" bbox="525.595,47.262,532.677,60.957" size="13.695">5</text>
+<text font="Verdana-Bold" bbox="532.796,47.262,539.878,60.957" size="13.695">7</text>
+<text font="Verdana" bbox="539.878,47.262,543.384,60.748" size="13.486"> </text>
+<text>
+</text>
+</textline>
+</textbox>
+<layout>
+<textgroup bbox="71.990,35.021,543.485,756.388">
+<textbox id="0" bbox="72.000,742.902,75.506,756.388"/>
+<textgroup bbox="71.990,35.021,543.485,721.146">
+<textgroup bbox="72.005,552.639,522.690,721.146">
+<textgroup bbox="90.000,631.596,435.168,721.146">
+<textgroup bbox="90.015,686.121,394.980,721.146">
+<textbox id="1" bbox="108.000,697.236,394.980,721.146"/>
+<textbox id="2" bbox="90.015,686.121,341.619,698.694"/>
+</textgroup>
+<textgroup bbox="90.000,631.596,435.168,688.386">
+<textbox id="3" bbox="90.000,653.235,96.579,665.214"/>
+<textgroup bbox="107.997,631.596,435.168,688.386">
+<textbox id="4" bbox="107.997,631.596,416.331,688.386"/>
+<textgroup bbox="431.997,642.513,435.168,687.579">
+<textbox id="5" bbox="432.000,675.393,435.168,687.579"/>
+<textbox id="6" bbox="431.997,642.513,435.165,654.699"/>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="72.005,552.639,522.690,633.792">
+<textbox id="7" bbox="89.997,620.481,522.690,633.792"/>
+<textgroup bbox="72.005,552.639,441.081,621.942">
+<textgroup bbox="72.005,585.341,323.340,621.942">
+<textbox id="8" bbox="108.000,597.582,323.340,621.942"/>
+<textbox id="9" bbox="72.005,585.341,292.609,599.036"/>
+</textgroup>
+<textgroup bbox="90.000,552.639,441.081,586.848">
+<textbox id="10" bbox="90.000,574.275,441.081,586.848"/>
+<textbox id="11" bbox="108.000,552.639,411.894,575.742"/>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="71.990,35.021,543.485,553.971">
+<textgroup bbox="72.005,386.076,371.130,553.971">
+<textgroup bbox="72.005,429.681,371.130,553.971">
+<textgroup bbox="72.005,462.435,364.886,553.971">
+<textgroup bbox="90.009,519.762,364.877,553.971">
+<textbox id="12" bbox="90.009,541.398,364.877,553.971"/>
+<textbox id="13" bbox="108.018,519.762,343.629,542.865"/>
+</textgroup>
+<textgroup bbox="72.005,462.435,364.886,521.220">
+<textgroup bbox="90.018,485.742,364.886,521.220">
+<textbox id="14" bbox="90.018,508.647,364.886,521.220"/>
+<textbox id="15" bbox="108.000,485.742,352.488,510.114"/>
+</textgroup>
+<textgroup bbox="72.005,462.435,360.207,487.196">
+<textbox id="16" bbox="72.005,473.501,313.614,487.196"/>
+<textbox id="17" bbox="90.000,462.435,360.207,475.008"/>
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="90.006,429.681,371.130,464.706">
+<textbox id="18" bbox="108.006,440.796,283.731,464.706"/>
+<textbox id="19" bbox="90.006,429.681,371.130,442.254"/>
+</textgroup>
+</textgroup>
+<textgroup bbox="90.006,386.076,340.962,431.946">
+<textgroup bbox="90.006,396.795,281.238,431.946">
+<textbox id="20" bbox="108.006,407.910,271.977,431.946"/>
+<textbox id="21" bbox="90.006,396.795,281.238,409.368"/>
+</textgroup>
+<textbox id="22" bbox="107.997,386.076,340.962,398.262"/>
+</textgroup>
+</textgroup>
+<textgroup bbox="71.990,35.021,543.485,387.597">
+<textbox id="23" bbox="72.000,361.781,532.600,387.597"/>
+<textgroup bbox="71.990,35.021,543.485,351.024">
+<textgroup bbox="71.990,121.095,543.485,351.024">
+<textbox id="24" bbox="71.990,325.417,543.485,351.024"/>
+<textgroup bbox="71.990,121.095,543.179,314.989">
+<textgroup bbox="71.990,168.941,543.179,314.989">
+<textgroup bbox="71.990,253.359,471.021,314.989">
+<textgroup bbox="71.990,289.155,471.021,314.989">
+<textbox id="25" bbox="71.990,301.294,388.240,314.989"/>
+<textbox id="26" bbox="90.000,289.155,471.021,301.728"/>
+</textgroup>
+<textbox id="27" bbox="108.000,253.359,432.499,290.346"/>
+</textgroup>
+<textgroup bbox="72.005,168.941,543.179,253.737">
+<textgroup bbox="90.000,181.182,543.179,253.737">
+<textgroup bbox="90.000,241.164,543.085,253.737">
+<textbox id="28" bbox="90.000,241.164,517.763,253.737"/>
+<textbox id="29" bbox="525.728,241.362,543.085,253.737"/>
+</textgroup>
+<textbox id="30" bbox="107.991,181.182,543.179,241.740"/>
+</textgroup>
+<textbox id="31" bbox="72.005,168.941,292.619,182.636"/>
+</textgroup>
+</textgroup>
+<textgroup bbox="72.005,121.095,313.614,170.448">
+<textgroup bbox="90.000,121.095,135.166,170.448">
+<textgroup bbox="90.000,145.902,134.361,170.448">
+<textbox id="32" bbox="90.000,157.875,134.361,170.448"/>
+<textbox id="33" bbox="108.000,145.902,111.406,159.597"/>
+</textgroup>
+<textbox id="34" bbox="90.000,121.095,135.166,136.043"/>
+</textgroup>
+<textgroup bbox="72.005,121.713,313.614,147.476">
+<textbox id="35" bbox="72.005,133.781,313.614,147.476"/>
+<textbox id="36" bbox="275.280,121.713,278.448,133.899"/>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+<textgroup bbox="71.997,35.021,543.384,60.957">
+<textbox id="37" bbox="71.997,35.021,75.503,48.507"/>
+<textbox id="38" bbox="467.160,47.262,543.384,60.957"/>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</textgroup>
+</layout>
+</page>
